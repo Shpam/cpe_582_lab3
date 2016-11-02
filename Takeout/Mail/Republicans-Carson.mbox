@@ -1,0 +1,2284 @@
+From 1522317532439318703@xxx Sun Jan 03 04:25:32 +0000 2016
+X-GM-THRID: 1522317532439318703
+X-Gmail-Labels: Republicans/Carson
+Delivered-To: 98xjsmith@gmail.com
+Received: by 10.107.62.195 with SMTP id l186csp3987711ioa;
+        Sat, 2 Jan 2016 20:25:32 -0800 (PST)
+X-Received: by 10.202.170.80 with SMTP id t77mr52846137oie.78.1451795132346;
+        Sat, 02 Jan 2016 20:25:32 -0800 (PST)
+Return-Path: <bounces+1611873-21df-98xjsmith=gmail.com@mail8.shared.hubspot.com>
+Received: from o2.mail8.shared.hubspot.com (o2.mail8.shared.hubspot.com. [167.89.22.44])
+        by mx.google.com with ESMTPS id a8si21322553obt.51.2016.01.02.20.25.31
+        for <98xjsmith@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 02 Jan 2016 20:25:32 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+1611873-21df-98xjsmith=gmail.com@mail8.shared.hubspot.com designates 167.89.22.44 as permitted sender) client-ip=167.89.22.44;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+1611873-21df-98xjsmith=gmail.com@mail8.shared.hubspot.com designates 167.89.22.44 as permitted sender) smtp.mailfrom=bounces+1611873-21df-98xjsmith=gmail.com@mail8.shared.hubspot.com;
+       dkim=pass header.i=@bencarson.com;
+       dkim=pass header.i=@sendgrid.info
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=bencarson.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe; 
+	s=smtpapi; bh=S7+gMqpSA+K80wBQJKvEsSW0rmQ=; b=bZpbxqHuAahpZl+gU+
+	YIGLqUkXm61et+GwlWdY/nXrifbhGKoEUC1kfwxfyIWI95WI1+oL8PPj3cXuCJlq
+	BP33AH2MPnFdenAnr2Bzby0eCOQKQxAHFvJyflHy2GzCZmnq2bxUFLkZkLsmuszg
+	5jZO/FsNjXYCtB7BwuyaXmbHM=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=S7+gMqpSA+K80wBQJKvEsSW0rmQ=; b=NRlv+AGvTGwuNZqC9t
+	9VAjG8cByI7f3Yp1ovEAky82a7YUjK+BEiGu6ZfhNCQ5Pdt68fT4mP0Qdq+u5h8Z
+	Puvyr0ygcHed2fOaUXteuvQSchuI1HKu0VcFIr6o9mjHkHFyVQifyzAFnj0nsdeP
+	jTnUalRQGbs8XCQvDvbt0TwtQ=
+Received: by filter0443p1mdw1.sendgrid.net with SMTP id filter0443p1mdw1.32161.5688A2BAA
+        2016-01-03 04:25:30.143891592 +0000 UTC
+Received: from orange-salad (ec2-54-174-54-182.compute-1.amazonaws.com [54.174.54.182])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id Bk_zadGOSB26V-SQJcFsgg
+	for <98xjsmith@gmail.com>; Sun, 03 Jan 2016 04:25:30.154 +0000 (UTC)
+From: Ben Carson <info@bencarson.com>
+Reply-To: info@bencarson.com
+To: 98xjsmith@gmail.com
+Message-ID: <1451795129757.10ae5f9a-4d90-47b4-9b3f-7c466caf2d2b@smtp.hubapi.com>
+Subject: I need your help today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8750404_4990713.1451795130145"
+List-Unsubscribe: <mailto:MDbQtgXbbyFW8hdbxP1PGRkdW26BJd-4pBTT9W3T3R3K3P3Q7wn3ZsjYm213@m.hsms09.com>, <http://www.bencarson.com/e1t/c/*W20j8Fr6yTmMjW25lPyM4fjNmn0/*W1bvlYk3V9_5GW1Bz_t28Ltn2v0/5/f18dQhb0S1bb2910TnLvQ64Wth4TW1Sk72x2FWQtZW5tht7Q2HxpT2W7wNxjy6TvnL7W47PP1d81p3JZVVPrk53xcHWbW8mVNZy2XKSbdW14H-cy5SjBLtW1LCh-81Cm33fW6g-QQf5HDgzjW40DN6-8qMKZCW7G3Wtf40DMR5W8MWq698FL_VhW3H_L7x6Yb1DCML2CpmC_cn5W4zRL7F24DcvTW4wQq073-hd-4W1drQ6H6r4kTPW2_dMwL3DDMjmN2jCc0px4xFcW1_W7yj1yJY6kW4r1c3w2XpnPYW1g678X5VMwJ7W1vzFkj3j-T5qW8FxcCg7kGCZFVb58ZG7hxRqtW82Zl5s4L_wJCW8pMRHk5-5Fl-W2_1lkk8ySzTXW8tk4ft4-Ts0tW2x29lH7nqjQSW82gF0g7L__ybW7N5knF5k56ngf3qlQ5d11>
+X-HubSpot-MID: CiQxMGFlNWY5YS00ZDkwLTQ3YjQtOWIzZi03YzQ2NmNhZjJkMmIQ05cgGO4RIAEo4qnqCjD9txo6Ezk4eGpzbWl0aEBnbWFpbC5jb21AncvuraAqSPECWihjOGRlN2UxMWMxYTg0MjQ4OTk2MmJkZGY2NTA5NzNmYjNjOGJjMmNkcKuN8AiAAQCYAQGgAQCoAQiwAQA=
+Date: Sun, 03 Jan 2016 04:25:30 +0000 (UTC)
+X-SG-EID: 4g5n379ze/NJ2Hiddy0rZMGlTv2/XvOMaLvakFLnOIU6SSIKGSUay3oVTpvptw9b028HptL4eZbvY/
+ SoHzJK6x4qatKbVrSZaBCtCE68Db2QBX+dwX0iC5CXmRdoiQ+t7LqBKqybRzfzXFlk8Kmawc25B3Lz
+ RbFQsZW+v7YR/2cXJMQz+3Qf913U69Ox0suhOLgS/UZlDoBOWz2snvl1aw==
+X-SG-ID: BaKDar+VrkG/S9kwb9JXA9lfzrEy/Gf5iCeS8FnSlzk82J3TacSFRhWwmiHekD5qS1eL3ZefY4ZFKh
+ phxcxdykGtSr5CSJ/x5v5Ti1mYENbrScreVfGBsCakAfuhQHNm/Wq+2Ffmj3ArTlpc8QbyCoEagOGk
+ +Bb0jgiOSWgFTsLzZRbhHc+Q4AJi9K3T6RWYAhMFpwMUH2OYj47JdlHYaZ6mmgnR9ar22uWtKI/0gC
+ wG5T/QsbbYEkhRDoaVHvuTrvT5RwZA90b2RGhKRtYiNYfjsJsrRu4utughIl722lY=
+X-Feedback-ID: 1611873:B/cyGK79zqG1gCMkXewzK3M4etoBPLdmcWzj6hpdpVE=:B/cyGK79zqG1gCMkXewzK3M4etoBPLdmcWzj6hpdpVE=:SG
+
+------=_Part_8750404_4990713.1451795130145
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Your support is so important to me. Your support is needed to make real cha=
+nge for our country.
+
+These emails come from the friendly folks at the Ben Carson for President t=
+eam. If you would like, you can update email subscription preferences (http=
+://www.bencarson.com/hs/manage-preferences/unsubscribe?v=3D1&d=3DeyJlYSI6Ij=
+k4eGpzbWl0aEBnbWFpbC5jb20iLCJlYyI6MjI3MTM1NzAsInN1YnNjcmlwdGlvbklkIjo0MzMxN=
+DksImV0IjoxNDUxNzk1MTI5NzU3LCJldSI6IjEwYWU1ZjlhLTRkOTAtNDdiNC05YjNmLTdjNDY2=
+Y2FmMmQyYiJ9&utm_source=3Dhs_automation&utm_medium=3Demail&utm_content=3D22=
+713551&_hsenc=3Dp2ANqtz-_KED-uLQ4tEIgevtd4ZuTsuHSPizhMFcCKhogz1sTwaiENhvI5y=
+O8rZfdjXThlzYNya-vxo0c0brhbezKNqZUpIC5j_g&_hsmi=3D22713570) .
+
+Ben Carson for President (https://www.bencarson.com?utm_source=3Dhs_automat=
+ion&utm_medium=3Demail&utm_content=3D22713551&_hsenc=3Dp2ANqtz-9wOfRDdzQzLI=
+VQGDRbgzB7HvmuoIuCNTeLs6IlVoGB-RwBbl-Mu_MfVvuRxW8myNdZe66z5TQIdD8D0KnouSqxw=
+UAt9Q&_hsmi=3D22713570)
+
+John,
+
+Your support is so important to me. Your support is needed to make real cha=
+nge for our country.
+
+With your help and millions of other Americans who have already signed up t=
+o be a part of the campaign, we can make this happen. But right now, our si=
+ghts must be set on securing the Republican nomination and then, ultimately=
+ becoming President.
+
+I cannot do this without your financial support. Can you donate $20 today (=
+https://www.bencarson.com/contribute/contribute-ga/?utm_source=3Dhs_automat=
+ion&utm_medium=3Demail&utm_content=3D22713551&_hsenc=3Dp2ANqtz-_oHDZxUuwat7=
+kVBZUlKP8LfgUqE5Zfa25fbO1BSbckL4dPpykq41FI9p4dTMrwsFx3EzwqC2zfssQYSDKf-cLIM=
+IJxQw&_hsmi=3D22713570) to make sure your voice is heard? We need to heal, =
+we need to be inspired, and we need to revive that exceptional spirit that =
+built America. Your donation will make that possible.
+
+Donate Today (https://www.bencarson.com/contribute/contribute-ga/?utm_sourc=
+e=3Dhs_automation&utm_medium=3Demail&utm_content=3D22713551&_hsenc=3Dp2ANqt=
+z-9X6r1cUiC1OClqccWOs4a-QxZxxELzlblWm1Mj_XgUpyBs6s-GEtn9EGiXCi7B6PxIUZ591d7=
+LcCHCfyYs_oPsnl03nA&_hsmi=3D22713570)
+
+With your financial support these are just a few of the things we can chang=
+e together:
+
+- Balancing Our Budget! In January 2009, our public debt was $11.9 trillion=
+. Now, it=E2=80=99s more than $18 trillion. Interest payments on the debt n=
+ow total about $250 billion, the 3rd single biggest item in the federal bud=
+get. We must ratify a Balanced Budget Amendment to the Constitution in orde=
+r to restore fiscal responsibility to the federal government=E2=80=99s budg=
+et. I will make this a priority!
+- Protecting Our Children! I believe education is the fundamental principle=
+ of what makes America a success. It is the foundation of what truly makes =
+our country =E2=80=9Cthe Land of Opportunity.=E2=80=9D For primary and seco=
+ndary education, the bedrock concept that has always guided us has been =E2=
+=80=9Clocal control.=E2=80=9D Communities fund and manage public schools fo=
+r the benefit of families and children in their neighborhoods. Our educatio=
+n system must be run by involved parents and engaged teachers and principal=
+s. Any attempt by faceless federal bureaucrats to take over our local schoo=
+ls must be defeated. This is important to me!
+- Solving the Healthcare Problem! ObamaCare is a looming disaster.  We didn=
+=E2=80=99t need the monstrosity of the $1.2 trillion Affordable Care Act. E=
+ven after it is fully implemented for 10 years, 23 million people still won=
+=E2=80=99t have any health insurance.  We need to re-establish a strong and=
+ direct relationship between patients and their physicians. More freedom an=
+d less government in our health care system will mean lower costs, more acc=
+ess, and continued innovation.
+
+Thank you again for being a part of the team!! I appreciate you and any con=
+tribution you can make (https://www.bencarson.com/contribute/contribute-ga/=
+?utm_source=3Dhs_automation&utm_medium=3Demail&utm_content=3D22713551&_hsen=
+c=3Dp2ANqtz-9r-HjysvIiK2IP2I8_rhadIApnGFtr1WH-fF656G-rWcn4geOwPuZaaaGO3y5qj=
+aSRcwVUufsdIgcZaGU0Y5UASV5JXg&_hsmi=3D22713570) .
+
+Sincerely,
+Ben Carson
+
+Donate Now (https://www.bencarson.com/contribute/contribute-ga/?utm_source=
+=3Dhs_automation&utm_medium=3Demail&utm_content=3D22713551&_hsenc=3Dp2ANqtz=
+-8Htpu164UuofiwmurUHcsz0L04ciGsCRJIxFGwoWan1Su-3cvJjsqNZ2hxjXfOFQ445ewQ64Fp=
+1jbY_Ik42m6-7FB2yA&_hsmi=3D22713570)
+
+Facebook (https://www.facebook.com/realbencarson?utm_source=3Dhs_automation=
+&utm_medium=3Demail&utm_content=3D22713551&_hsenc=3Dp2ANqtz-8v8_pvxzLelYUl1=
+zexyrj3WxTLudnrIHeckoQ5m1tiWsZjNyV0FPI_RCOGkFY6JnhiJ4YAx2GKLSWqs7GgtzlvLAlF=
+Hg&_hsmi=3D22713570)
+Twitter (https://twitter.com/realbencarson?utm_source=3Dhs_automation&utm_m=
+edium=3Demail&utm_content=3D22713551&_hsenc=3Dp2ANqtz-8xhQS4c8pFhFK_DyctU6G=
+Y_-6ylhPSff51lYUdt26AwUFhh5akuw1aim693KR1DxcUROp5NzFgSBXfeLVIpe0d-DhJww&_hs=
+mi=3D22713570)
+YouTube (https://www.youtube.com/user/realbencarson?utm_source=3Dhs_automat=
+ion&utm_medium=3Demail&utm_content=3D22713551&_hsenc=3Dp2ANqtz-8MO0zsiCT5sP=
+zW2lOGRWISja3w9zEeJBE03FU9g3lbS_T0WleNPuKGFOWQMcVqoCeHBv8EQacQd_fKybCRzPqu3=
+yS4zQ&_hsmi=3D22713570)
+Instagram (https://instagram.com/realbencarson/?utm_source=3Dhs_automation&=
+utm_medium=3Demail&utm_content=3D22713551&_hsenc=3Dp2ANqtz-83jiS5KqsX-NVz9b=
+Yo0xfaw9FT8ogErJOQwkgC66Qckg6XWaZ_48JuYyTYynawgi4tiY2y9sWZvfBUM5N2wwmsvFdCH=
+w&_hsmi=3D22713570)
+
+Carson America, Inc.
+P.O. Box 26261
+
+Alexandria
+VA
+22313
+
+You received this email because you are subscribed to Ben Carson Updates fr=
+om Carson America, Inc..
+
+Update your email preferences (http://www.bencarson.com/hs/manage-preferenc=
+es/unsubscribe?v=3D1&d=3DeyJlYSI6Ijk4eGpzbWl0aEBnbWFpbC5jb20iLCJlYyI6MjI3MT=
+M1NzAsInN1YnNjcmlwdGlvbklkIjo0MzMxNDksImV0IjoxNDUxNzk1MTI5NzU3LCJldSI6IjEwY=
+WU1ZjlhLTRkOTAtNDdiNC05YjNmLTdjNDY2Y2FmMmQyYiJ9&utm_source=3Dhs_automation&=
+utm_medium=3Demail&utm_content=3D22713551&_hsenc=3Dp2ANqtz-_lMZxpmC5DQev1QY=
+qMQLGrI_thVupMttKphYVFC9xdGW9pw8-Mgb41nwPWfQCOhmCVer7uZmE4RzHfglnfJMvUPaY8l=
+g&_hsmi=3D22713570) to choose the types of emails you receive.
+
+Unsubscribe from all future emails (http://www.bencarson.com/hs/manage-pref=
+erences/unsubscribe-all?v=3D1&d=3DeyJlYSI6Ijk4eGpzbWl0aEBnbWFpbC5jb20iLCJlY=
+yI6MjI3MTM1NzAsInN1YnNjcmlwdGlvbklkIjo0MzMxNDksImV0IjoxNDUxNzk1MTI5NzU3LCJl=
+dSI6IjEwYWU1ZjlhLTRkOTAtNDdiNC05YjNmLTdjNDY2Y2FmMmQyYiJ9&utm_source=3Dhs_au=
+tomation&utm_medium=3Demail&utm_content=3D22713551&_hsenc=3Dp2ANqtz-_nNVtPv=
+wxIfRROpD7WdSKgeucEgvpJSdgpULauAoBumig7O-IiYZztEvLnN_RjSB5IeHL-tCtCDEn421Av=
+AzLsRYR0Qw&_hsmi=3D22713570)
+
+Paid for by Carson America, Inc.=
+
+------=_Part_8750404_4990713.1451795130145
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!-- start coded_template: id=
+:3560505005 path:custom/email/web_page_basic/Basic_Email_Template_Responsiv=
+e.html --><html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8">
+        <!--[if !mso]><!-->
+			<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+		<!--<![endif]-->
+		<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+		<title></title>
+		<style type=3D"text/css" id=3D"hs-inline-css">
+            /*<![CDATA[*/
+            /* everything in this style tag will be inlined onto matching e=
+lements */
+            /* Basics */
+				body {
+					margin: 0;
+					padding: 0;
+					min-width: 100%;
+					background-color: #eee;
+				}
+				table {
+					border-spacing: 0;
+					font-family: sans-serif;
+					color: #333333;
+				}
+				td {
+					padding: 0;
+				}
+				img {
+					border: 0;
+				}
+				.wrapper {
+					width: 100%;
+					table-layout: fixed;
+					-webkit-text-size-adjust: 100%;
+					-ms-text-size-adjust: 100%;
+					text-align: -moz-center;
+				}
+				.webkit {
+					width: 100%;
+					max-width: 560px;
+				}
+=09=09=09=09
+				.wrapper, .webkit {
+					background-color: #eee;
+				}
+=09=09=09
+				.full-width-image--img {
+					display: block;
+					width: 100%;
+					max-width: 560px;
+					height: auto;
+				}
+=09=09=09=09
+				.small-width-image--img {
+					display: block;
+					width: 100%;
+					margin: 1em 0 2em 0;
+					max-width: 322px;
+					height: auto;
+				}
+=09=09=09=09
+				.outer {
+					padding: 1em 0;
+				}
+=09=09=09=09
+				.opt-out {
+					color:  #666;
+					font-size: 11px;
+					line-height: 16px;
+					margin-bottom: 1em;
+				}
+
+
+				p, li {
+					margin: 0;
+				}
+				a {
+					color: #0081CB;
+					text-decoration: underline;
+				}
+				.h1 {
+					font-size: 21px;
+					font-weight: bold;
+					Margin-bottom: 18px;
+				}
+				.h2 {
+					font-size: 18px;
+					font-weight: bold;
+					Margin-bottom: 12px;
+				}
+=09=09=09=09
+				.contents {
+					max-width: 560px;
+					width: 100%;
+				}
+=09=09=09=09
+				.main-content {
+					background-color: white;
+					width: 100%;
+				}
+=09=09=09=09
+				.main-content td {
+					padding: 1em;
+				}
+=20
+				/* One column layout */
+				.one-column .contents {
+					text-align: left;
+				}
+				.one-column p, .one-column li {
+					font-size: 16px;
+					line-height: 26px;
+					margin-bottom: 10px;
+				}
+=09=09=09=09
+				.grey-line {
+					padding: 1em 0;
+				}
+=09=09=09=09
+				.grey-line img {
+					display: block;
+					height: 1px;
+					width: 100%;
+					max-width: 560px;
+				}
+=09=09=09=09
+				.footer p {
+					color:  #666;
+					font-size: 11px;
+					margin-bottom: 0;
+				}
+
+=09=09=09=09
+
+				.disclaimer td {
+					border: 1px solid #666;
+					color: #666;
+					font-size: 14px;
+					padding: 1em;
+					text-align: center;
+					width: 50%;
+				}
+=09=09=09=09
+				#preview_text {
+					display: none!important;
+					color: #eee;
+					height: 0;
+					width: 0;
+				}
+=09=09=09=09
+				.footer-donate-social {
+					width: 100%;
+				}
+=09=09=09=09
+=09=09=09=09
+=09=09=09=09
+				.donatenow a {
+					color: white;
+					display: block;
+					font-weight: bold;
+					text-align: center;
+					text-decoration: none;
+					text-transform: uppercase;
+				}
+=09=09=09=09
+				.donatenow td {
+					padding: 1em 1em .75em 1em;
+					text-align: center;
+				}
+=09=09=09=09
+				.footer-donate-social__inner {
+					padding: 1em;
+					width: 50%;
+				}
+=09=09=09=09
+				.footer-donate-social__inner table {
+					width: 100%;
+				}
+=09=09=09=09
+				.footer-social__wrapper {
+					text-align: right;
+				}
+=09=09=09=09
+				.social-button--fb {
+					width: 16px;
+				}
+=09=09=09=09
+				.social-button--tt {
+					width: 37px;
+				}
+=09=09=09=09
+				.social-button--yt {
+					width: 26px;
+				}
+
+				.social-button--ig {
+					width: 32px;
+				}=09=09=09=09
+=09=09=09=09
+            /*]]>*/
+        </style>
+        <style type=3D"text/css">
+        	@media only screen and (min-device-width: 320px) and (max-device-w=
+idth: 568px) {
+				td[class=3Dfooter-donate-social__inner] {
+					display: block !important;
+					width: 88% !important;
+				}
+				td[class=3Dfooter-social__wrapper] {
+					text-align: center !important;
+				}
+				td[class=3Dfooter-donate-social__inner--top] {
+					padding-bottom: 0 !important;
+				}
+			}
+=20=20=20=20=20=20=20=20
+        </style>
+		<!--[if gte mso 9]>
+		<style type=3D"text/css">
+			table {
+				border-collapse: collapse;
+			}
+			.full-width-image--img img {
+				height: 156px !important;
+				width: 560px !important;
+			}
+			.footer-donate-social {
+				width: 560px !important;
+			}
+		</style>
+		<![endif]-->
+	</head>
+	<body style=3D"margin:0; padding:0; min-width:100%; background-color:#eeee=
+ee" bgcolor=3D"#eeeeee">
+	<!--[if mso]>
+ 		<center>
+ 			<table><tr><td width=3D"560">
+	<![endif]-->=09
+		<center class=3D"wrapper" bgcolor=3D"#eeeeee" style=3D"width:100%; table-=
+layout:fixed; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; tex=
+t-align:-moz-center; background-color:#eeeeee" width=3D"100%" align=3D"-moz=
+-center">
+        	<div class=3D"webkit" align=3D"center" bgcolor=3D"#eeeeee" style=
+=3D"width:100%; max-width:560px; background-color:#eeeeee" width=3D"100%">
+            	<table class=3D"outer contents" align=3D"center" style=3D"bord=
+er-spacing:0; font-family:sans-serif; color:#333333; padding:1em 0; max-wid=
+th:560px; width:100%" width=3D"100%">
+            		<tbody><tr>
+            			<td colspan=3D"2" style=3D"padding:0">=09
+	            			<span id=3D"preview_text" style=3D"color:#eeeeee; height:0;=
+ width:0; display:none!important" height=3D"0" width=3D"0">Your support is =
+so important to me. Your support is needed to make real change for our coun=
+try.</span>
+            			</td>
+            		</tr>
+            		<tr>
+            			<td class=3D"inner contents" colspan=3D"2" style=3D"padding:=
+0; max-width:560px; width:100%" width=3D"100%">
+            				<p class=3D"opt-out" style=3D"margin:0; color:#666666; font=
+-size:11px; line-height:16px; margin-bottom:1em">These emails come from the=
+ friendly folks at the Ben Carson for President team. If you would like, yo=
+u can <a href=3D"http://www.bencarson.com/e1t/c/*W3mWbXz8CwhK8W5MV8l02D6Nc9=
+0/*W3_6X4W5RQ_ZdW4MsWNX4Vv2x40/5/f18dQhb0S2C97Bf-yPVWW3WM1MMRRSW4RJX912tQJP=
+VN1kVkVhHdftCW5ChVfn2NQFRzW1cCD1c70zSnSW88qT9S6ydWblW4lY0Wm8btMfGW8Z9wZt15d=
+79RW8XKzjM2k2MWSW4sGxC12h3L2VW7LW5sw7Q6ZfkV_st9_6qGGRYW7M3xY427Z_s1W8l0KJM1=
+ZNGX-W43sm_V8_xPP-W7r76f57hdYV1N4vPd-XMH3trMkNwJHjBg9WW66vYFP7BmjR6W8RfQRd1=
+0Q-lYW11PCY45gj91TW65mKZk8lZ1_VW1hYRY77Jlt_4W5FVQcL4XgPd5W36fFPM1D4S8yW5gj7=
+hb7yXqZqW8ql7_P4YrPrdW8zqnnP1Fkg8-W6Pbk9q6mtS63W8z4YbX78pYyfW29MXML7L9f7qW4=
+Xtx986-7hhrW5f2Dq05lfwzbN7vHHc4Q7ts9N7mkPZHgthQYVWSCfX5v5bPJW1ldv3q92KPfXN1=
+l1s53JprD6N8b0wqn3mHv-N38_J6HK0HS-W9cYz0D47yK26W48F31f6xcs3rW2yFVbq49JY5zV2=
+TQXl7qKhn-W1ZYZ__612ZHKW7GFDG_5gvS_XVBbtvV2PvRfsN8PQJpvwwVx5W4-qNcZ25xkl7W5=
+BM15r3H0kh0W8z0N_-4wFsjvN7R_3zZdjCNlW70H-019bVtYYW8QHQJ-98HfYgW2bL5g192W2Tn=
+W6fVPt521n66mW3vpv-c7LHtYhW4F46lS6bq-TbW96WsgQ8twj8mW1Mckrq4pvFb0W8Kcw4t18Z=
+QVJf6YWFNY03" style=3D"color:#0081cb; text-decoration:underline" data-hs-li=
+nk-id=3D"0">update email subscription preferences</a>.</p>
+            			</td>
+            		</tr>
+					<tr>
+						<td class=3D"full-width-image" colspan=3D"2" style=3D"padding:0">
+=09=09=09=09=09=09=09
+							<a href=3D"http://www.bencarson.com/e1t/c/*W65Sx_g8Ym7TVW1wNyPC3Sv0-=
+Y0/*W5PWt8R2Y_X1yW6_xtPw12GtJv0/5/f18dQhb0SmhP8Z990-W8pF5MT8LCvkbW57k4Sr58Q=
+qxJW6Blzk01Vqz72VLDpF18CSvhfW8B-3rj1mjv45W8tzLpw8tzK6wW5wL96r8sZ4WSW67b7w67=
+gZbXjW8mFNQC3J4LSBW4KQG3y328h7yW3_Khm_1Vx266W7nwG0k6bnMRgVD41n17R0x14N4M3d-=
+KVQf4XW5vDhTY6Q2yCXW2DmNst7hQV4VW5y5Rtx1qMCkVW3PfkJR3HCfC6W5FVJbx5_N0HwW66J=
+WH-26_v63W1nrNl24vFjcHW65sBc95wLXWwW23GtR-3KcBJ_N79NystNFKSXN4rXM4n_z8HCW3N=
+VZnc1qfxBjN8GclM4PVZztW7dr9qW72YqDyW3KTzrb3SQk1ZVLRpBF2F6yTvN8ShrZcd8rw0W2-=
+XJYB8_SBmWW47Z0w22B60wcVhxKjX2dlnGzW7bq_Jy7RCpTbW3y19vC3wqspPf5RC7NR11" sty=
+le=3D"color:#0081cb; text-decoration:underline" data-hs-link-id=3D"0"><img =
+src=3D"http://cdn2.hubspot.net/hub/527315/hubfs/email/carson-email-header-l=
+ight-5.png?t=3D1451515085385&amp;width=3D560&amp;height=3D156" width=3D"100=
+%" height=3D"auto" alt=3D"Ben Carson for President" class=3D"full-width-ima=
+ge--img" style=3D"border:0; display:block; width:100%; max-width:560px; hei=
+ght:auto"></a>
+						</td>
+				    </tr>
+				    <tr>
+						<td class=3D"one-column" style=3D"padding:0">
+							<table class=3D"contents main-content" bgcolor=3D"white" style=3D"bo=
+rder-spacing:0; font-family:sans-serif; color:#333333; max-width:560px; bac=
+kground-color:white; width:100%; text-align:left" width=3D"100%" align=3D"l=
+eft">
+								<tbody><tr>
+									<td class=3D"inner contents" colspan=3D"2" style=3D"max-width:560p=
+x; width:100%; padding:1em; text-align:left" width=3D"100%" align=3D"left">
+										<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bo=
+ttom:10px">John,</p>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>Your support is so important to me. Your support is needed to make real ch=
+ange for our country.</p>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>With your help and millions of other Americans <span style=3D"text-decorat=
+ion: underline;"><em>who have already signed up</em></span> to be a part of=
+ the campaign, we can make this happen. But right now, our sights must be s=
+et on securing the Republican nomination and then, ultimately becoming Pres=
+ident.</p>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>I cannot do this without your financial support. <a href=3D"http://www.ben=
+carson.com/e1t/c/*W65Sx_g8Ym7TVW1wNyPC3Sv0-Y0/*W2-hX1r5lSw92VF_wfT7Rmqpm0/5=
+/f18dQhb0S5fm8YHsrKW8Tnwn54mQf6dW2zGMJW7fZFGHN3hHhb7XL0jYVnQ9Qq8--HBkW8-xMX=
+y5lcWNxW8Xlj7s8Wm1tDW8Xl1cn1SPDt1W30Xpwx8xPLm8W61SSZm7dDxTNW7mWsnX7dz8FNW1n=
+Y85c1nbj7VW3VpsGl7NrMZsW3pcMZ27bj20MTz8jv3sxGBwVFjWsr30rsDrW94pXZF2yysBnW5c=
+8d-S377W10W379Dtm2y43KgW8Rjggl6b0_BGW42hkbD16vLRpW636bH17lN4nzW7yDbB-1q8sdX=
+W1mR1fx9hH49wN8njZX4QypxpW3st5YT1xJJDxW35SYby8q90jNW5bxT934TLL_7W6mkG615tK7=
+4kW6njQJD49kJcBW4pfZcl1Q68w6W1MMh8v3gvwcfW3jdhZG7cgY9gW7HT6Jg9cHNDqW2nRylc5=
+qPt3rW2d-tb_83jtQpW2-zl0L73dsV4W2XlLtz1RB-nQN6DcN88VMPV8VVmhRN203bDw102" st=
+yle=3D"color:#0081cb; text-decoration:underline" data-hs-link-id=3D"0">Can =
+you donate $20 today</a> to make sure your voice is heard? We need to heal,=
+ we need to be inspired, and we need to revive that exceptional spirit that=
+ built America. Your donation will make that possible.</p>
+<table align=3D"center" bgcolor=3D"#ed283b" cellpadding=3D"10" cellspacing=
+=3D"10" width=3D"300" style=3D"border-spacing:0; font-family:sans-serif; co=
+lor:#333333">
+<tbody>
+<tr>
+<td style=3D"padding:1em"><a style=3D"text-align:center; color:white; text-=
+transform:uppercase; font-size:24px; font-weight:bold; text-decoration:none=
+; display:block" href=3D"http://www.bencarson.com/e1t/c/*W65Sx_g8Ym7TVW1wNy=
+PC3Sv0-Y0/*VkqfV21BgGpbW73R9ly20k8mf0/5/f18dQhb0S5fm8YHsrKW8Tnwn54mQf6dW2zG=
+MJW7fZFGHN3hHhb7XL0jYVnQ9Qq8--HBkW8-xMXy5lcWNxW8Xlj7s8Wm1tDW8Xl1cn1SPDt1W30=
+Xpwx8xPLm8W61SSZm7dDxTNW7mWsnX7dz8FNW1nY85c1nbj7VW3VpsGl7NrMZsW3pcMZ27bj20M=
+Tz8jv3sxGBwVFjWsr30rsDrW94pXZF2yysBnW5c8d-S377W1rW6cd1HY8KDFQZW6NG16D8qtlS3=
+W2J1Pl55vwn2yW87yqrH8KFcjSW3TNqGd6RPClJW7dS8rx3z2vDQW15c2kG2HPzb2W73mTMz7YX=
+93LW4XRgWK1xdRGZW4sx0618xwKtsW3B8Z4p6mvg1RVcGM-Q49kJcBW4pfZcl1Q68w6W1MMh8v3=
+gvwcfW3jdhZG7cgY9gW7HT6Jg9cHNDqW2nRylc5qPt3rW2d-tb_83jtQpW2-zl0L73dsV4W2XlL=
+tz1RB-nQN6DcN88VMPV9VVmcSV33Yqzp102" align=3D"center" data-hs-link-id=3D"1"=
+>Donate Today</a></td>
+</tr>
+</tbody>
+</table>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>With your financial support these are just a few of the things we can chan=
+ge together:</p>
+<ul>
+<li style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px=
+"><em><strong>Balancing Our Budget!</strong></em> In January 2009, our publ=
+ic debt was $11.9 trillion. Now, it=E2=80=99s more than $18 trillion. Inter=
+est payments on the debt now total about $250 billion, the 3rd single bigge=
+st item in the federal budget. We must ratify a Balanced Budget Amendment t=
+o the Constitution in order to restore fiscal responsibility to the federal=
+ government=E2=80=99s budget. I will make this a priority!</li>
+<li style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px=
+"><em><strong>Protecting Our Children!</strong></em> I believe education is=
+ the fundamental principle of what makes America a success. It is the found=
+ation of what truly makes our country =E2=80=9Cthe Land of Opportunity.=E2=
+=80=9D For primary and secondary education, the bedrock concept that has al=
+ways guided us has been =E2=80=9Clocal control.=E2=80=9D Communities fund a=
+nd manage public schools for the benefit of families and children in their =
+neighborhoods. Our education system must be run by involved parents and eng=
+aged teachers and principals. Any attempt by faceless federal bureaucrats t=
+o take over our local schools must be defeated. This is important to me!</l=
+i>
+<li style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px=
+"><strong>Solving the Healthcare Problem!</strong> ObamaCare is a looming d=
+isaster.&nbsp; We didn=E2=80=99t need the monstrosity of the $1.2 trillion =
+Affordable Care Act. Even after it is fully implemented for 10 years, 23 mi=
+llion people still won=E2=80=99t have any health insurance.&nbsp; We need t=
+o re-establish a strong and direct relationship between patients and their =
+physicians. More freedom and less government in our health care system will=
+ mean lower costs, more access, and continued innovation.<br><br></li>
+</ul>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>Thank you again for being a part of the team!! I appreciate you and <a hre=
+f=3D"http://www.bencarson.com/e1t/c/*W65Sx_g8Ym7TVW1wNyPC3Sv0-Y0/*W1LXppm2s=
+xtcGW83hsFw93SKQC0/5/f18dQhb0S5fm8YHsrKW8Tnwn54mQf6dW2zGMJW7fZFGHN3hHhb7XL0=
+jYVnQ9Qq8--HBkW8-xMXy5lcWNxW8Xlj7s8Wm1tDW8Xl1cn1SPDt1W30Xpwx8xPLm8W61SSZm7d=
+DxTNW7mWsnX7dz8FNW1nY85c1nbj7VW3VpsGl7NrMZsW3pcMZ27bj20MTz8jv3sxGBwVFjWsr30=
+rsDrW94pXZF2yysBnW5c8d-S377W2vW5C4g218xtX8lW1md-3G4L6_HFW65fqG33s8DphW95vL6=
+66bwzrLW42d2wR61SNqpW8pTrj215LHCKW96sBFk1JBfmdW2HkQTf63dKdqW8xgMSZ4L3qtmW8y=
+pGgX4D9h02W8qlGq53sc-7rW7gryf149kJcBW4pfZcl1Q68w6W1MMh8v3gvwcfW3jdhZG7cgY9g=
+W7HT6Jg9cHNDqW2nRylc5qPt3rW2d-tb_83jtQpW2-zl0L73dsV4W2XlLtz1RB-nQN6DcN88VN0=
+5-VVmmmt7BYn9c102" style=3D"color:#0081cb; text-decoration:underline" data-=
+hs-link-id=3D"2">any contribution you can make</a>.</p>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>Sincerely, <br>Ben Carson</p>
+									</td>
+								</tr>
+=09=09=09=09=09=09=09=09
+							</tbody></table>
+						</td>
+					</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=09=09=09=09=09
+                    <tr>
+						<td style=3D"padding:0">
+							<table class=3D"footer-donate-social" bgcolor=3D"#0174c7" style=3D"b=
+order-spacing:0; font-family:sans-serif; color:#333333; width:100%" width=
+=3D"100%">
+								<tbody><tr>
+									<td class=3D"footer-donate-social__inner" style=3D"padding:1em; wi=
+dth:50%" width=3D"50%">
+										<table class=3D"donatenow" style=3D"border-spacing:0; font-family=
+:sans-serif; color:#333333; width:100%" width=3D"100%">
+											<tbody><tr>
+												<td bgcolor=3D"#ED283B" width=3D"100%" style=3D"padding:1em 1em=
+ 0.75em 1em; text-align:center" align=3D"center"><a href=3D"http://www.benc=
+arson.com/e1t/c/*W65Sx_g8Ym7TVW1wNyPC3Sv0-Y0/*W3ng1dT3k_bDvVPBgSh160LSS0/5/=
+f18dQhb0S5fm8YHsrKW8Tnwn54mQf6dW2zGMJW7fZFGHN3hHhb7XL0jYVnQ9Qq8--HBkW8-xMXy=
+5lcWNxW8Xlj7s8Wm1tDW8Xl1cn1SPDt1W30Xpwx8xPLm8W61SSZm7dDxTNW7mWsnX7dz8FNW1nY=
+85c1nbj7VW3VpsGl7NrMZsW3pcMZ27bj20MTz8jv3sxGBwMFjWsrnn6n5W94pXZF2yysBnW5c8d=
+-S378fdtW1pZg-X4DXzzyW7yY_NB5WCC4fW3KjXWF6RK73QW3M3Kx65CGQgqW2Bl3Wg8x0SJZV3=
+8f-S6P9LSmW961f0N2J0t0XW6QX_yQ2J_M6PW4D8ffx3t16byW1x10q96PsCb5W4Wbr0F5VQlnK=
+W36QC3k49kJb9W2h6LQ63zXm3vW8csLSq1036y7N3ZWSmQc0pwZW45y9dJ5rVzdHV215-p1Jp47=
+GW6K-tby7S68CzW3ZFlYt9ffwhgW95Nr5M4K3TS_W8NcK_Y30y57vW1Jw4K-2QQ4Vzf2NZYLK04=
+" style=3D"color:white; display:block; font-weight:bold; text-align:center;=
+ text-decoration:none; text-transform:uppercase" align=3D"center" data-hs-l=
+ink-id=3D"3">Donate Now</a></td>
+											</tr>
+										</tbody></table>
+									</td>
+									<td class=3D"footer-donate-social__inner" style=3D"padding:1em; wi=
+dth:50%" width=3D"50%">
+										<table style=3D"border-spacing:0; font-family:sans-serif; color:#=
+333333; width:100%" width=3D"100%">
+											<tbody><tr>
+												<td width=3D"100%" class=3D"footer-social__wrapper" align=3D"ri=
+ght" style=3D"padding:0; text-align:right">
+													<a href=3D"http://www.bencarson.com/e1t/c/*W65Sx_g8Ym7TVW1wNyP=
+C3Sv0-Y0/*W7XHhyr4GrK3cW8vxKHJ2F7X9X0/5/f18dQhb0Smh_8XJ9l8W8Tnwn54mQf6dW2zG=
+MJW7fZFGHN3hHh8mVMsQMVnQ9Qq8--HBkW8_1hFG32WXVJW6B40j34dQ1q2VKnt_C8WBzlBW548=
+YcY2MznrNW567bYV5lKvt_W541WWZ2NSVKQW2Mn9WV7MPvMkW69NG1w6Pr5qtW51vDDW56Y1GmW=
+96dt4S4r1QwqN3fSG2fwj6vVN53hs-8QC5z2VPC2cV7fZVxxVdVsvG5FQhsLW38TpqY8l139VVc=
+h-F75sPG1HW1pG7hx8p1K-BW28f4R46P2qH5W4S6Tqs4qNPqGVLGb6G5wtz_qVYNvVw1s5kSDN3=
+Ms3CzfNVG-N2ByQj6SXskMVg55VV8m_FwrW4PkBg56BzNGrW98Nfwd73QsnmW1d5pgb5FrK8FW5=
+XWHHj2-ZnVgVxw8nM4Pvq-YW49FShz6gg0DmW98Cyws9dWd82W3mtPSW3htyn6W4gTztc67dl7c=
+W5T-pNK73r2_lV1Xxf93wV0qH103" style=3D"color:#0081cb; text-decoration:under=
+line" data-hs-link-id=3D"0"><img src=3D"http://cdn2.hubspot.net/hub/527315/=
+hubfs/email/facebook-white.png?t=3D1451515085385&amp;width=3D16&amp;height=
+=3D31" class=3D"social-button social-button--fb" width=3D"16" height=3D"31"=
+ alt=3D"Facebook" style=3D"border:0; width:16px"></a>&nbsp;
+													<a href=3D"http://www.bencarson.com/e1t/c/*W65Sx_g8Ym7TVW1wNyP=
+C3Sv0-Y0/*W3q2DXX6KLc7nV4Kvmm2GXvCF0/5/f18dQhb0SmhQ8XJbXvW8Tnwn54mQf6dW2zGM=
+JW7fZFGHN3hHhctXL0jYVnQ9Qq8Z_pJ9W2MyX6Q8YztwfW8-tSw_4d1LttW5lcWNx8XlhqcW2MT=
+PSp8W2c9WW32CQ2l8j22WZW8Tn65J1TxSXbW2lqN3m1x4lQBW6Hq46J5CktyLW8mQMYT7NM5zGN=
+1hl0J6yNc7sW3X0g0y2mx_3JW56sy_82NhXFJN3mT1hTmRJGKW4grXd97nWn0GN3nDdVQ49jZjW=
+1Gjvzz750p-CN1ClzL0vKL_ZW1D8CPW4jdDWLW78lcRg9dCvr1W2d7shD9cj7m4N7p8jVFLbwCr=
+V6_Rqr4bnTFgW5NLdgg774wnBW3pBT4t4lBZ6FW4PsdCM1bFTSwW4M11334H_8kRW2NGcNs1f9c=
+VrW5mQFYF49fKTBW24t_Ld49FShzW6gg0Dm98CywsW9dWd823mtPSWW3htyn64gTztcW67dl7c5=
+T-pNKN73r2_l1WbPlf30dYWs03" style=3D"color:#0081cb; text-decoration:underli=
+ne" data-hs-link-id=3D"0"><img src=3D"http://cdn2.hubspot.net/hub/527315/hu=
+bfs/email/twitter-white.png?t=3D1451515085385&amp;width=3D37&amp;height=3D3=
+0" class=3D"social-button social-button--tt" width=3D"37" height=3D"30" alt=
+=3D"Twitter" style=3D"border:0; width:37px"></a>&nbsp;
+													<a href=3D"http://www.bencarson.com/e1t/c/*W65Sx_g8Ym7TVW1wNyP=
+C3Sv0-Y0/*W1d1nFw769ScwW89NBJc913cVb0/5/f18dQhb0S5fq8XJ9TCW8Tnwn54mQf6dW2zG=
+MJW7fZFGHN3hHh9yVMsQMVnQ9Qq8--HBkW8ZLLFc2Mz0QWW8-y10r8Z_j95N567L0TKnt_CW8WB=
+zlB548YcYW2MznrN567bYVW5lKvt_541WWZW2NSVKQ2Mn9WVW7MPvMk69NG1wW6Pr5qt51vDG6W=
+4MW8X34r1Pm7W1nqcMf17LTvDW7R0x144M3dV-VVQf4X5vDhXCW7dSPQM26WfV8W23FXgV3M21W=
+mVf63xk27KD8JW33WPgM4tfRW3VMdyYp1q7kMNV-BX_C3Q2vpjW4xsVK465jnTlW4vV8hs8p-Gq=
+6W93tVQj4wtnRsW5J1p7F63LD3MW1rMs4X6MzcW8W33PcZ_8GclM4W1-kc-y3zXm3vW8csLSq10=
+36y7N3ZWSmQb17c3W45y9bk5kZTn-V215-p1Jp47GW6K-tby7S68CzW3ZFlYt9ffwhgW95Nr5M4=
+K3TS_W8NcK_Y30y57vW1tGQJT20y2-Gf2bpbHM04" style=3D"color:#0081cb; text-deco=
+ration:underline" data-hs-link-id=3D"0"><img src=3D"http://cdn2.hubspot.net=
+/hub/527315/hubfs/email/white-youtube.png?t=3D1451515085385&amp;width=3D26&=
+amp;height=3D31" class=3D"social-button social-button--yt" width=3D"26" hei=
+ght=3D"31" alt=3D"YouTube" style=3D"border:0; width:26px"></a>&nbsp;
+													<a href=3D"http://www.bencarson.com/e1t/c/*W65Sx_g8Ym7TVW1wNyP=
+C3Sv0-Y0/*MJvTPYdhzFmW6Fmwh12mwhCk0/5/f18dQhb0Smj18XJbp2W8Tnwn54mQf6dW2zGMJ=
+W7fZFGHN3hHhdGVMsQMVnQ9Qq8ZQtY2N2M6QV5Hq5bYW8Wm1tt2_YWs2W31H9rJ55kNW7W8Zg3Y=
+m4bH_qwW2N33B53_t0gLVK3KRP4c2TwMN8XlfjdHZ5KNW5D8zFF6bVy-5W25PYN47nwG0kW6bnM=
+Rg5J_J7-W2R1RKq1VJwB8W7WmcjJ97rB1bW8xqZNq60DvkFW4rrGQH3P_rw0W5xt9n5607kdZW6=
+35f9J3d9BB6W4VSJK62zhG3GN62wv5KRsl_jVfP3yf3P1sbkW94gS9R4n-tL7W5sJ5Wv1sn-pKN=
+4S61l9b37VbW2D67pj8CS4ZgN5s8s9mgRk0KW7wV0mM4BSnyVN8csGDVD2JBLW7vNBhc2-YD2nN=
+1MhwXzgfPp3W7bXhy-1wlbN3W5cRxLx2cm8mrW4Hyg_M4KVDwNW88lz1z9gDSZqW83KpZC1KmS6=
+0w7D7GRnhZZf5TQT5Z02" style=3D"color:#0081cb; text-decoration:underline" da=
+ta-hs-link-id=3D"0"><img src=3D"http://cdn2.hubspot.net/hub/527315/hubfs/em=
+ail/white-instagram.png?t=3D1451515085385&amp;width=3D32&amp;height=3D32" c=
+lass=3D"social-button social-button--ig" width=3D"32" height=3D"32" alt=3D"=
+Instagram" style=3D"border:0; width:32px"></a>
+												</td>
+											</tr>
+										</tbody></table>=09=09
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+					<tr>
+						<td class=3D"one-column footer" colspan=3D"2" style=3D"padding:0">
+							<table class=3D"contents copyright-optout" style=3D"border-spacing:0=
+; font-family:sans-serif; color:#333333; max-width:560px; width:100%; text-=
+align:left" width=3D"100%" align=3D"left">
+								<tbody><tr>
+									<td style=3D"padding:0">&nbsp;</td>
+								</tr>
+								<tr>
+									<td class=3D"inner contents" style=3D"padding:0; max-width:560px; =
+width:100%; text-align:left" width=3D"100%" align=3D"left">
+=09=09=09=09=09=09=09=09=09=09
+										<p style=3D"margin:0; line-height:26px; color:#666666; font-size:=
+11px; margin-bottom:0">
+											Carson America, Inc.&nbsp;
+											P.O. Box 26261&nbsp;
+											&nbsp;
+											Alexandria&nbsp;
+											VA&nbsp;
+											22313&nbsp;
+											&nbsp;
+										</p>
+										<p style=3D"margin:0; line-height:26px; color:#666666; font-size:=
+11px; margin-bottom:0">
+											You received this email because you are subscribed to Ben Carson=
+ Updates from Carson America, Inc..
+										</p>
+										<p style=3D"margin:0; line-height:26px; color:#666666; font-size:=
+11px; margin-bottom:0">
+											Update your <a class=3D"hubspot-mergetag" data-unsubscribe=3D"tr=
+ue" href=3D"http://www.bencarson.com/e1t/c/*W3mWbXz8CwhK8W5MV8l02D6Nc90/*W3=
+FL2h973-ltbW5hx8m64TdVxz0/5/f18dQhb0S2C97Bf-yPVWV-_g1MMRRSW4RJX912tQJPVW8mJ=
+vZG5pNSLMW5Bcwc46nDz2bW5VsrCl1pXmyJW2SBbx55pqRD9W165Z3c4RbX1ZW4sF1C543f7vhW=
+5QDYzB8bsN9CW8Hzfz495P0b2W7C3brD6qQPm5W5H299y8MX02RW7s9-576GQLkJW6qZFLP8FjC=
+bfN5lWRvsvD8W2W4gsfSr7PntXbW66YV2l72WzJcW1DThP-7f42HXW3RNNH-16P7nbW3GnTHS4s=
+q-v0MFXg1LxFbkCW2f1wx02YhpMvW6sPjQ63d9QnNW5FwsN36tXzQGW5Cxr4l1tzbQtW68tXvP1=
+nPbYZW4ZKyVd7W_fMWN3rP9WmN0D8lW89V9hg2YdNjVW36RYjP2-G_G7VxQv7h7RQCgpW4-Q9Rb=
+1H5fnbW3vhnLs8109jFW7rmBKN5lW2trW6klZMs50WvDQW8rJfYy22M_jxW5dZ0q68FwRfXW5jK=
+v_28SjT4CW5hX-jR2lQt0jVH8J9m93LflxVJm4b75BJjGNN29_dKn5yQ9nW5-YNYV3FM07WW2b5=
+96w1V0qtnW28x8rT46MJ_bW5dnx_K47VDwJW96rjWf96Jl3RW1HwZ7w44GqcwW5SXD5L1m-x62W=
+1r7yqm2xCldnW47gHPd5yY2WtW8ZR0rT84k6TxW1zKGXc6YqcmGW2_zh0z8xMc_DW5b74Wh1bw-=
+l9W37g1tp53TBwfW8C5Fmx9h5SB5W92LKkt3rSGscW7zXLy78XmYscW48KBPh7qGrMrW5HTd--7=
+2NPCKf12F51M21" style=3D"color:#0081cb; text-decoration:underline" data-hs-=
+link-id=3D"1">email preferences</a> to choose the types of emails you recei=
+ve.
+										</p>
+										<p style=3D"margin:0; line-height:26px; color:#666666; font-size:=
+11px; margin-bottom:0">
+											<a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D"=
+http://www.bencarson.com/e1t/c/*W3mWbXz8CwhK8W5MV8l02D6Nc90/*W2GH95V4TWxyyW=
+6Y-53N1crVTH0/5/f18dQhb0S2C97wjzHXVM-_3Y5XQ2HWVjkbPT55vMg_W3LyHfM1yVJL3W5nF=
+9Yt3V074TVlPlVy6qtB8ZW3Msd9W5pDndWW5Nllsd4gDjtbW1JtLbk8H8QnyW6LXRNf1vXdw7W1=
+sPMzD4mdLclW8L6mnX7W8F-QN8HZV6Zz153mW7pLxHb3brmX1V_nSPX42lHC4W7mHYrB3KTc6MW=
+4n6D_Z11VxQRW1_lbhw8rGBxlW1TJjWk7dZfyVN1ZvC_vZQG4WN3pglCT93lj0W2krfSM8sgFzX=
+W1tldNc3Q2Ct1W8rdhKN2Sy7rLW7xHK2V7w6qqdW5PsMPs4TtMyfN7jQG90f3fLxW7bz83p63P0=
+6gVTg7f01Dk0myW1RTkwm5Qk_-TW603Jq86wgKGZW6WSp4c4byG8WW2kXLp82l8LjQW5V8VSy3W=
+8G0bW8HDGmD8yYrGJN7R8TF7Th5R9VMmwl-84P9tqW3292Mk2cQcb4N5hr2gBBNvx_W8RvLWn8J=
+80GjW7kv5mR6nfn78W1QKn8P5fHf-jW8TwSQ_6ws0gHW3Rb9Fv6x2tRpMhXw5ZFsp96W6qk8cc5=
+lgKJKW7RPpP91M_DvkW4ns9Xq2wkQ-VW3538794jfwz4W51JCpm4tJmrZW7rBhtr8GrQBwW3fvx=
+Kg7KVX26W3R7nJK8SfL3WW49cWmG6s4GXjW4wh4gy6LsPtxW4s1NsV4n-dpjW86ThCK9gwCvPN8=
+727_X_Z3rCW9h6v4k8X2mHsW9jXBw94HjbBcW9drQtC9gZZ4XW81SQlm4_pwBDV1cfMg2nj0Mj1=
+03" style=3D"color:#0081cb; text-decoration:underline" data-hs-link-id=3D"0=
+">Unsubscribe from all future emails</a>
+										</p>
+									</td>
+								</tr>
+								<tr>
+									<td style=3D"padding:0">=20
+										<br>
+										<table class=3D"contents" align=3D"left" style=3D"border-spacing:=
+0; font-family:sans-serif; color:#333333; max-width:560px; width:100%; text=
+-align:left" width=3D"100%">
+											<tbody><tr>
+												<td align=3D"center" style=3D"padding:0">
+													<table class=3D"disclaimer" align=3D"center" style=3D"border-s=
+pacing:0; font-family:sans-serif; color:#333333">
+														<tbody><tr>
+															<td style=3D"border:1px solid #666666; color:#666666; font-s=
+ize:14px; padding:1em; text-align:center; width:50%" align=3D"center" width=
+=3D"50%">
+																<span>Paid for by Carson America, Inc.</span>
+															</td>
+														</tr>
+													</tbody></table>=09=09
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+=09=09=09=09=09=09=09=09
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+        	</div>
+    	</center>
+    <!--[if mso]>
+ 		</td></tr></table>
+ 		</center>
+	<![endif]-->=20=09
+=09
+<!-- end coded_template: id:3560505005 path:custom/email/web_page_basic/Bas=
+ic_Email_Template_Responsive.html -->
+<img src=3D"http://www.bencarson.com/e1t/o/*W7y4-k43zWSvKW6DYCys1w-3s30/*W9=
+gW0H68hhv9KW3ZTj642N7F7F0/5/f18dQhb0KdhDBWRlfW6R02zB2nxYxmW1hZ56m32GcFSVSn8=
+7f2jz_TZVcWjvG7dHy9TW3XtNf155kGGdW83Glpz4-fH8dW7sLqGF9cYcbqW1wlbN35cRxLxW2c=
+m8mr4Hyg_MW4KVDwN88lz1zW9gDSZq83KpZCw1KmS601Jsf7SYFH002" alt=3D"" width=3D"=
+1" height=3D"1" border=3D"0" style=3D"display:none!important;min-height:1px=
+!important;width:1px!important;border-width:0!important;margin-top:0!import=
+ant;margin-bottom:0!important;margin-right:0!important;margin-left:0!import=
+ant;padding-top:0!important;padding-bottom:0!important;padding-right:0!impo=
+rtant;padding-left:0!important"><style>@media print{#_hs { background-image=
+: url('http://www.bencarson.com/e1t/o/*W7y4-k43zWSvKW6DYCys1w-3s30/*W7zl2Y9=
+6_KykNVnnhhy8ZVMXw0/5/f18dQhb0J6x1dBVNW8b5nYG19kTpGW1f7_kj20WxrQW20W58D2YtZ=
+D-F346K26vFvnTDk7H28vr7mW23qKvB3_VrY8W2m40Kf3T0pbmW43T0K_4RF_rdVNw4sF6WKpzW=
+N89dglfCZW5QW8FXC1N7Tl8_BW7snfpz1y6gnrdWHt5T01');}} div.OutlookMessageHeade=
+r {background-image:url('http://www.bencarson.com/e1t/o/*W7y4-k43zWSvKW6DYC=
+ys1w-3s30/*Vq8GbH3Gr5DSW5gxBbR15yMk00/5/f18dQhb0J6z1cMYyW8tVM-719kTpGW1f7_k=
+j20WxrQW20W58G2zLf-3F2nVMD-s7yKM2xwK0vlGr-VJYbB63W1ZyLW4fHNqh3_R592N1JxwY52=
+rk5CW15gBJz6h4t7rW8qTD-m5GS6-xW5fFSmT8WDZVFVWzPw46lB9LvTy57R3x9dSv103')} ta=
+ble.moz-email-headers-table {background-image:url('http://www.bencarson.com=
+/e1t/o/*W7y4-k43zWSvKW6DYCys1w-3s30/*Vq8GbH3Gr5DSW5gxBbR15yMk00/5/f18dQhb0J=
+6z1cMYyW8tVM-719kTpGW1f7_kj20WxrQW20W58G2zLf-3F2nVMD-s7yKM2xwK0vlGr-VJYbB63=
+W1ZyLW4fHNqh3_R592N1JxwY52rk5CW15gBJz6h4t7rW8qTD-m5GS6-xW5fFSmT8WDZVFVWzPw4=
+6lB9LvTy57R3x9dSv103')} blockquote #_hs {background-image:url('http://www.b=
+encarson.com/e1t/o/*W7y4-k43zWSvKW6DYCys1w-3s30/*Vq8GbH3Gr5DSW5gxBbR15yMk00=
+/5/f18dQhb0J6z1cMYyW8tVM-719kTpGW1f7_kj20WxrQW20W58G2zLf-3F2nVMD-s7yKM2xwK0=
+vlGr-VJYbB63W1ZyLW4fHNqh3_R592N1JxwY52rk5CW15gBJz6h4t7rW8qTD-m5GS6-xW5fFSmT=
+8WDZVFVWzPw46lB9LvTy57R3x9dSv103')} #MailContainerBody #_hs {background-ima=
+ge:url('http://www.bencarson.com/e1t/o/*W7y4-k43zWSvKW6DYCys1w-3s30/*Vq8GbH=
+3Gr5DSW5gxBbR15yMk00/5/f18dQhb0J6z1cMYyW8tVM-719kTpGW1f7_kj20WxrQW20W58G2zL=
+f-3F2nVMD-s7yKM2xwK0vlGr-VJYbB63W1ZyLW4fHNqh3_R592N1JxwY52rk5CW15gBJz6h4t7r=
+W8qTD-m5GS6-xW5fFSmT8WDZVFVWzPw46lB9LvTy57R3x9dSv103')}</style><div id=3D"_=
+hs"></div></body></html>=
+
+------=_Part_8750404_4990713.1451795130145--
+
+
+From 1525250037180669860@xxx Thu Feb 04 13:16:26 +0000 2016
+X-GM-THRID: 1525250037180669860
+X-Gmail-Labels: Republicans/Carson
+Delivered-To: 98xjsmith@gmail.com
+Received: by 10.107.170.24 with SMTP id t24csp441988ioe;
+        Thu, 4 Feb 2016 05:16:27 -0800 (PST)
+X-Received: by 10.202.86.83 with SMTP id k80mr3373437oib.44.1454591786989;
+        Thu, 04 Feb 2016 05:16:26 -0800 (PST)
+Return-Path: <bounces+1809607-3300-98xjsmith=gmail.com@mail11.shared.hubspot.com>
+Received: from o28.emailer.hubspot.com (o28.emailer.hubspot.com. [74.63.234.146])
+        by mx.google.com with ESMTPS id ps3si8428182obb.57.2016.02.04.05.16.26
+        for <98xjsmith@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 04 Feb 2016 05:16:26 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+1809607-3300-98xjsmith=gmail.com@mail11.shared.hubspot.com designates 74.63.234.146 as permitted sender) client-ip=74.63.234.146;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+1809607-3300-98xjsmith=gmail.com@mail11.shared.hubspot.com designates 74.63.234.146 as permitted sender) smtp.mailfrom=bounces+1809607-3300-98xjsmith=gmail.com@mail11.shared.hubspot.com;
+       dkim=pass header.i=@bencarson.com;
+       dkim=pass header.i=@sendgrid.info
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=bencarson.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe; 
+	s=smtpapi; bh=AX5dL4o+wwF/7+u0iIWTgHmQTSA=; b=TNjsknUrGCnMgowyvH
+	Ws7EKCrmDHTIFDFuTfuHz76IvTk1kChKYHngc7JdZOf3M8HEcn5WoRfAHNfnxQig
+	JgTW7nmIEIT/Ro2Ix0KHCNBzoR1O5+Xz4kTXdrurUbtnNFe2ifiCU76G1FvcMxXL
+	IHWDajTi1GXiKdA/cRM06oihM=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=AX5dL4o+wwF/7+u0iIWTgHmQTSA=; b=frBHd0Ktqpg4zoA60D
+	Q80cdu3fFjSk3iKz7zbgyF1sNB/0trtsdzGOzW3vSbg4DMJOUA2mrykBJpDV7+kz
+	FGmK6Bmer79p0uRQj098mTDxdMP3daYzpDM6c4lxk5/yW+fc5i7Y28yGYkpjNw/E
+	y8UY4Fzzd/KIjTUOBvox/4Z7c=
+Received: by filter0855p1mdw1.sendgrid.net with SMTP id filter0855p1mdw1.5482.56B34E746E
+        2016-02-04 13:13:24.787045721 +0000 UTC
+Received: from lingering-lab (ec2-54-174-53-147.compute-1.amazonaws.com [54.174.53.147])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id 9QmES597S6yStPiWg_g5DA
+	for <98xjsmith@gmail.com>; Thu, 04 Feb 2016 13:13:24.649 +0000 (UTC)
+From: Ben Carson for President <info@bencarson.com>
+Reply-To: info@bencarson.com
+To: 98xjsmith@gmail.com
+Message-ID: <1454591505695.f9c6027c-8bb4-4698-9332-4acd37b1fb96@smtp.hubapi.com>
+Subject: Mrs. Candy Carson Meet and Greet
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1076579_568317118.1454591604644"
+List-Unsubscribe: <mailto:MDbQtgWdcg-W8p97t66zWHSdVJYbB63W1ZyLW4fHNqh3_R592f1JxwY504@m.hsms09.com>, <http://www.bencarson.com/e1t/c/*W20j8Fr6yTmMjW25lPyM4fjNmn0/*W1VhHkG5GNKGVVWLYkW7yJV7x0/5/f18dQhb0S1W92d-5TMLy8Wgd6xyWW56pdKr30_mC4W1mkS5Y60c2DBW4WWQmr41XhFsW12YH7M6BM_G7VfrkMk7WnKPnW6N1Gcq8YGrpJW6-jnDH9g8dJkW6Znr5984x3wTW3tXzHl3CbxLjN69K74TnjY5_W3zxP9_5j7Mb1W93TFDL2HN6SQW2nwWhw5gk_dhW1T9tsH1SzLtwW3cYK0R1XvvBdW72V6jd5Lnmt-W6qsXwM864Y6TW1Cc6Sl3-hPT3W4kqYKv2h2HvlN4HKh1z7X8W0W2lt-y08g6dZ0W570LLC3Pc5mtW9hzGqj701-N0W8dSnD41bsQRxW3_zTgS6RpPSmW9knlkC3WgGt7N2QqdQ7Fg760W53vlbZ4gjWWGMbtDTFSLBN7W6YJjcr8yHlzCW3qjXql8kDTTQW2n58fL6lZwbWN8r7_vfSn_2W0>
+X-HubSpot-MID: CiRmOWM2MDI3Yy04YmI0LTQ2OTgtOTMzMi00YWNkMzdiMWZiOTYQ05cgGHEgACiU5a0MMLPfLDoTOTh4anNtaXRoQGdtYWlsLmNvbUCf6qPjqipI4gNaIGY5ZDQxMDhmYzIwOWRjYjZhZDUxYWJkZGVkYmRkYTZkZQAAAEFwq43wCIABAIoBJDJhOTA2NzhmLTA4ZTgtMzA2My04ZDg2LTc2ODcyY2UyZTdlMZgBAaABAagBCLABAA==
+Date: Thu, 04 Feb 2016 13:14:32 +0000 (UTC)
+X-SG-EID: 4g5n379ze/NJ2Hiddy0rZMGlTv2/XvOMaLvakFLnOIWMu3utFKHAZI8LqHVo0ZruXwSKcc23zsddCP
+ zyzYZnfOHMPIsFASSOrSXUzswIOoQUlFuXl/oVkrWH2alFXbgpDDUVZa9oDO/tQxmWj/AscLFNnaWC
+ Dd0POX2a+LODwn9wUwjd7Syvdn7POSb3VkM8lCHE2TpIHTz2ft0lZwxg41YxTIbSDPoQNd13/aSC35
+ U=
+X-SG-ID: BaKDar+VrkG/S9kwb9JXAz1S04FO0Uap7YkraPAuC35pu0kM08fvAMAw5gIcujACe/+olvwzFm+IBO
+ QtlgKGzGs6sFGnvqO5AVMJzBCNu7MKI9U9txruKxl+Bc0KTPYCaD4xVwpudu4koLvpFzEiT1OCAjb8
+ FYaSSaj7Omijzz9NArHaYYOCKhiqYsqrM/SKHN+EQKi2X0PYzvYMRsHQv/724DdVlxS2OH2e7ffW2T
+ kB/FDz1AYSyqO5D1mvJ9gHWTs39EQ2tNcC9MYrBF91XFDGGrxY5i+VG3/vyYwo+utv6dtaPWw8jGFu
+ p+AUand4sD+X+9aTCk8H8udUCz6MP1qbi3oBSU1fJJPv7QhXh5Y=
+X-Feedback-ID: 1809607:K8ASmvRnzzTOHWszNKl963LMJIlIcetF9BaPR8Wk1t8=:K8ASmvRnzzTOHWszNKl963LMJIlIcetF9BaPR8Wk1t8=:SG
+
+------=_Part_1076579_568317118.1454591604644
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Ben Carson for President (http://www.bencarson.com?utm_campaign=3DEvents&ut=
+m_source=3Dhs_email&utm_medium=3Demail&utm_content=3D25916052&_hsenc=3Dp2AN=
+qtz-_-ABHr7Th4rtI7cDtj54ODtI7P1sCucDspYuvjiwE7OLWDQwWHHtj9HQapcA_MHGjXsm5zh=
+qKtjzMPqfM4zyWv9C34SQ&_hsmi=3D25916052)
+
+Hi John,
+
+Please join Mrs. Candy Carson for a Meet and Greet.
+
+This event is Friday, February 5th at 12 noon.
+
+The address for this event is:
+
+Barley House Restaurant
+132 N. Main St.
+Concord, NH 03301
+
+RSVP NOW (http://cta-image-cms2.hubspot.com/ctas/v2/public/cs/ci/?pg=3D0d50=
+b667-db8f-4666-80bd-9f1addf9fc1a&pid=3D527315&ecid=3DACsprvs8J-9pNYgXcCwD-T=
+KXzyhBm3uH6Xn-nOttUsbrYxqRhTToY1yrc8IHK_CXe0FX9U7iMm2V&utm_rewrite=3DREWRIT=
+E_ALL&utm_campaign=3DEvents&utm_source=3Dhs_email&utm_medium=3Demail&utm_co=
+ntent=3D25916052&_hsenc=3Dp2ANqtz-9S_myOky7_vTwyzn5fJTb-DWcdYCzqok4QSYrTXf_=
+VPdTxaH0Pw5Zc5naR1BC8l7q3DObOeG0G9vDs3ze0DfmUMwFGmw&_hsmi=3D25916052)
+
+For more information, please contact Jaryn Haines at
+jaryn.haines@carsonhq.com
+(mailto:jaryn.haines@carsonhq.com)
+
+Carson America, Inc.
+P.O. Box 26261
+
+Alexandria,
+VA
+22313
+
+You received this email because you are subscribed to Events from Carson Am=
+erica, Inc..
+
+Update your email preferences (http://www.bencarson.com/hs/manage-preferenc=
+es/unsubscribe?v=3D1&d=3DeyJlYSI6Ijk4eGpzbWl0aEBnbWFpbC5jb20iLCJlYyI6MjU5MT=
+YwNTIsInN1YnNjcmlwdGlvbklkIjo3MzMxMDcsImV0IjoxNDU0NTkxNTA1Njk1LCJldSI6ImY5Y=
+zYwMjdjLThiYjQtNDY5OC05MzMyLTRhY2QzN2IxZmI5NiJ9&utm_campaign=3DEvents&utm_s=
+ource=3Dhs_email&utm_medium=3Demail&utm_content=3D25916052&_hsenc=3Dp2ANqtz=
+--299ID0qZHZ-FB0NR4bjlPYteYSvuGmSWcb0ajVjUja-Jn881zmT-tBrQPdMPdDkF3aFn5Py5A=
+LDnn8vYCA0R4ALNUFg&_hsmi=3D25916052) to choose the types of emails you rece=
+ive.
+
+Unsubscribe from all future emails (http://www.bencarson.com/hs/manage-pref=
+erences/unsubscribe-all?v=3D1&d=3DeyJlYSI6Ijk4eGpzbWl0aEBnbWFpbC5jb20iLCJlY=
+yI6MjU5MTYwNTIsInN1YnNjcmlwdGlvbklkIjo3MzMxMDcsImV0IjoxNDU0NTkxNTA1Njk1LCJl=
+dSI6ImY5YzYwMjdjLThiYjQtNDY5OC05MzMyLTRhY2QzN2IxZmI5NiJ9&utm_campaign=3DEve=
+nts&utm_source=3Dhs_email&utm_medium=3Demail&utm_content=3D25916052&_hsenc=
+=3Dp2ANqtz-8BhtGIPxmHcN2bE0Tw1jLMAGxn3I0YLtFtUB37wfESobmM4jgWnFltY7jbnlkVQX=
+ehJL0xyFnsXrqDBniXU4o0FsiIWw&_hsmi=3D25916052)=
+
+------=_Part_1076579_568317118.1454591604644
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><!-- start coded_template: id:3179327192 path:generated_layo=
+uts/3179327182.html --><html bgcolor=3D"#ffffff" style=3D"margin: 0; paddin=
+g: 0; background-color: #ffffff"><head>
+        <title>Mrs. Candy Carson Meet and Greet </title>
+        <meta property=3D"og:title" content=3D"Mrs. Candy Carson Meet and G=
+reet ">
+        <meta name=3D"twitter:title" content=3D"Mrs. Candy Carson Meet and =
+Greet ">
+=20=20=20=20=20=20=20=20
+        <style type=3D"text/css">
+        /*<![CDATA[*/
+            /* iOS automatically adds a link to addresses */
+            /* Style the footer with the same color as the footer text */
+            #footer a {
+                color: #999999;
+                -webkit-text-size-adjust: none;
+                text-decoration: underline;
+                font-weight: normal
+            }
+
+=20=20=20=20=20=20=20=20=20=20=20=20
+            #main_body {
+                box-shadow: 0px 1px rgba(0, 0, 0, 0.1);
+            }
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+            /* Hide preview text on rendering */
+            #preview_text {
+                display: none;
+            }
+
+        /*]]>*/
+        </style>
+        <!-- http://www.emailon@cid.com/blog/details/C13/ensure_that_your_e=
+ntire_email_is_rendered_by_default_in_the_iphone_ipad -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                               =
+                                                      -->
+        <!--                            _/    _/            _/          _/_=
+/_/                        _/                         -->
+        <!--                           _/    _/  _/    _/  _/_/_/    _/    =
+    _/_/_/      _/_/    _/_/_/_/                      -->
+        <!--                          _/_/_/_/  _/    _/  _/    _/    _/_/ =
+   _/    _/  _/    _/    _/                           -->
+        <!--                         _/    _/  _/    _/  _/    _/        _/=
+  _/    _/  _/    _/    _/                            -->
+        <!--                        _/    _/    _/_/_/  _/_/_/    _/_/_/   =
+ _/_/_/      _/_/        _/_/                         -->
+        <!--                                                               =
+_/                                                    -->
+        <!--                                                              _=
+/                                                     -->
+        <!--                                                               =
+                                                      -->
+        <!--                                                 Extra White Sp=
+ace!                                                  -->
+        <!--                                                               =
+                                                      -->
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - =
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    </head>
+    <body bgcolor=3D"#ffffff" style=3D"margin: 0; padding: 0;  background-c=
+olor: #ffffff" marginheight=3D"0" marginwidth=3D"0" topmargin=3D"0">
+
+        <!-- Preview text (text which appears right after subject) -->
+        <div id=3D"preview_text" style=3D"display:none!important"></div>
+
+        <!-- start container -->
+        <table bgcolor=3D"#ffffff" style=3D"background-color: #ffffff; -web=
+kit-font-smoothing: antialiased; -webkit-text-size-adjust: none" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+             <tbody><tr>
+                <td bgcolor=3D"#ffffff" style=3D"background-color: #ffffff;=
+">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" bgcolor=3D"#ffffff" st=
+yle=3D"background-color: #ffffff">
+                                    <!-- start header section -->
+                                    <div class=3D"header-container-wrapper">
+    <table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+        <tr>
+            <td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" s=
+tyle=3D"width:100.0%; text-align: left; padding: 0; font-family: 'Helvetica=
+ Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5em; =
+color: #222222; ">
+                <div class=3D"widget-span widget-type-email_view_as_web_pag=
+e " style=3D"" data-widget-type=3D"email_view_as_web_page">
+
+
+                </div><!--end widget-span -->
+            </td>
+        </tr>
+        <tr>
+            <td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" s=
+tyle=3D"width:100.0%; text-align: left; padding: 0; font-family: 'Helvetica=
+ Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5em; =
+color: #222222; ">
+                <div class=3D"widget-span widget-type-rich_text " style=3D"=
+" data-widget-type=3D"rich_text">
+                    <div class=3D"layout-widget-wrapper">
+                        <div id=3D"hs_cos_wrapper_module_14434464706842154"=
+ class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_tex=
+t" style=3D"color: inherit; font-size: inherit; line-height: inherit; margi=
+n: inherit; padding: inherit" data-hs-cos-general-type=3D"widget" data-hs-c=
+os-type=3D"rich_text"></div>
+                    </div><!--end layout-widget-wrapper -->
+                </div><!--end widget-span -->
+            </td>
+        </tr>
+    </tbody></table>
+</div><!--end header wrapper -->
+                                    <!-- end header section -->
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor=3D"#ffffff" style=3D"padding: 10px 20px; backgr=
+ound-color: #ffffff">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td id=3D"main_body" width=3D"600" bgcolor=
+=3D"#ffffff" style=3D"padding: 30px; background-color: #ffffff; border: 1px=
+ solid #d9d9d9; border-bottom: 1px solid #b9b9b9; border-radius: 4px">
+                                    <div align=3D"center">
+                                        <table cellpadding=3D"0" width=3D"6=
+00" cellspacing=3D"0" border=3D"0">
+                                            <!-- start content -->
+                                            <tbody><tr>
+                                                <td style=3D"padding: 0; ba=
+ckground-color: #ffffff">
+                                                    <div align=3D"center">
+                                                        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"font-family: =
+'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-heigh=
+t: 1.5em; color: #222222">
+                                                            <tbody><tr>
+                                                                <td>
+                                                                    <div al=
+ign=3D"center">
+                                                                        <!-=
+- start body section -->
+                                                                        <di=
+v class=3D"body-container-wrapper">
+    <table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+        <tr>
+            <td valign=3D"top" colspan=3D"3" width=3D"25.0%" class=3D"" sty=
+le=3D"width:25.0%; text-align: left; padding: 0; font-family: 'Helvetica Ne=
+ue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5em; col=
+or: #222222; ">
+                <div class=3D"widget-span widget-type-space " style=3D"" da=
+ta-widget-type=3D"space">
+                    <div class=3D"layout-widget-wrapper">
+                        <div id=3D"hs_cos_wrapper_module_14351484475252601"=
+ class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_space" s=
+tyle=3D"color: inherit; font-size: inherit; line-height: inherit; margin: i=
+nherit; padding: inherit" data-hs-cos-general-type=3D"widget" data-hs-cos-t=
+ype=3D"space"></div>
+                    </div><!--end layout-widget-wrapper -->
+                </div><!--end widget-span -->
+            </td>
+            <td valign=3D"top" colspan=3D"6" width=3D"50.0%" class=3D"" sty=
+le=3D"width:50.0%; text-align: left; padding: 0; font-family: 'Helvetica Ne=
+ue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5em; col=
+or: #222222; ">
+                <div class=3D"widget-span widget-type-logo " style=3D"" dat=
+a-widget-type=3D"logo">
+                    <div class=3D"layout-widget-wrapper">
+                        <div id=3D"hs_cos_wrapper_logo_image" class=3D"hs_c=
+os_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style=3D"color: =
+inherit; font-size: inherit; line-height: inherit; margin: inherit; padding=
+: inherit" data-hs-cos-general-type=3D"widget" data-hs-cos-type=3D"logo"><a=
+ href=3D"http://www.bencarson.com/e1t/c/*W4BCdt799L-32W2wVDp-8LF1jR0/*W1K-p=
+_Z4Dw-rTW25-z7D4vj6Js0/5/f18dQhb0SmhX8XJ8yvW8Tnwn52qwv1yN32lHh96zd_BMf5lhlX=
+D6prW39Dr-N8pCDKkW6bp1bX2yH57wW4vgKM190G7thN8S3yR5bY02SW4s87CN6bnMRyW3Vpx94=
+9dSlS6W35rgCl94-4T0W7sLfyr5DBw5FW7v70xc34mKvyW8mQMWv5TgmLcW8DNj1d8QKpwvVKkN=
+jW13bD4hW6dklXy2NrtRTW8X4BPn1gsKCmW2PS9X28Xl1q2W6Wkkvm9fPC1yW1GHTn32QBpwpW7=
+qDZmf5LTzLXV5Wxnn7t1FhkW53GCLj6zplxvV4Bn0c1CSyY4N9gG2d5sgVJ2W1R_kwx4z-SMVN6=
+wL7F35Y_HPW8nDXSj38t_XVN22TNxn9Mb7LW4534Hv34wwVLW2MmS102nT7GgW6tLyM52LdjVlW=
+3G1d3N4w36TsW1Xvmc571XxFLW4mq87p4qKHZhW3Dkx-p5dRwwQW1NwBMj1MKdbDf1BNZ0x11" =
+id=3D"hs-link-logo_image" style=3D"border-width:0px;border:0px;" data-hs-li=
+nk-id=3D"0"><img src=3D"http://cdn2.hubspot.net/hub/527315/hubfs/ben-carson=
+-for-president.png?t=3D1454270172718&amp;width=3D415" class=3D"hs-image-wid=
+get " style=3D"max-height:88px; max-width:415px; border-width:0px;border:0p=
+x;" width=3D"415" alt=3D"Ben Carson for President" title=3D"Ben Carson for =
+President"></a></div>
+                    </div><!--end layout-widget-wrapper -->
+                </div><!--end widget-span -->
+            </td>
+            <td valign=3D"top" colspan=3D"3" width=3D"25.0%" class=3D"" sty=
+le=3D"width:25.0%; text-align: left; padding: 0; font-family: 'Helvetica Ne=
+ue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5em; col=
+or: #222222; ">
+                <div class=3D"widget-span widget-type-space " style=3D"" da=
+ta-widget-type=3D"space">
+                    <div class=3D"layout-widget-wrapper">
+                        <div id=3D"hs_cos_wrapper_module_14351484565502901"=
+ class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_space" s=
+tyle=3D"color: inherit; font-size: inherit; line-height: inherit; margin: i=
+nherit; padding: inherit" data-hs-cos-general-type=3D"widget" data-hs-cos-t=
+ype=3D"space"></div>
+                    </div><!--end layout-widget-wrapper -->
+                </div><!--end widget-span -->
+            </td>
+        </tr>
+        <tr>
+            <td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" s=
+tyle=3D"width:100.0%; text-align: left; padding: 0; font-family: 'Helvetica=
+ Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5em; =
+color: #222222; ">
+                <div class=3D"widget-span widget-type-rich_text " style=3D"=
+font-size: 12px; line-height: 1.5em; text-align: center; " data-widget-type=
+=3D"rich_text">
+                    <div class=3D"layout-widget-wrapper">
+                        <div id=3D"hs_cos_wrapper_column1" class=3D"hs_cos_=
+wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"color=
+: inherit; font-size: inherit; line-height: inherit; margin: inherit; paddi=
+ng: inherit" data-hs-cos-general-type=3D"widget" data-hs-cos-type=3D"rich_t=
+ext"></div>
+                    </div><!--end layout-widget-wrapper -->
+                </div><!--end widget-span -->
+            </td>
+        </tr>
+        <tr>
+            <td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" s=
+tyle=3D"width:100.0%; text-align: left; padding: 0; font-family: 'Helvetica=
+ Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5em; =
+color: #222222; ">
+                <div class=3D"widget-span widget-type-email_body " style=3D=
+"" data-widget-type=3D"email_body">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<div id=3D"hs_cos_wrapper_hs_email_body" class=3D"hs_cos_wrapper hs_cos_wra=
+pper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-si=
+ze: inherit; line-height: inherit; margin: inherit; padding: inherit" data-=
+hs-cos-general-type=3D"widget" data-hs-cos-type=3D"rich_text"><p style=3D"m=
+argin-bottom: 1em; ">Hi John,</p>
+<p style=3D"margin-bottom: 1em; ">Please join Mrs. Candy&nbsp;Carson for&nb=
+sp;a Meet and Greet.</p>
+<p style=3D"margin-bottom: 1em; ">This event is Friday<strong>,&nbsp;Februa=
+ry&nbsp;5th at 12 noon.</strong></p>
+<p style=3D"margin-bottom: 1em; ">The address for this event is:<br><strong=
+><br>Barley House Restaurant<br>132 N. Main St.<br>Concord, NH 03301<br></s=
+trong></p>
+<p style=3D"margin-bottom: 1em; "><strong><!--HubSpot Call-to-Action Code -=
+->=20
+<span class=3D"hs-cta-wrapper" data-hs-img-pg=3D"0d50b667-db8f-4666-80bd-9f=
+1addf9fc1a" id=3D"hs-cta-wrapper-0d50b667-db8f-4666-80bd-9f1addf9fc1a"> <sp=
+an class=3D"hs-cta-node hs-cta-0d50b667-db8f-4666-80bd-9f1addf9fc1a" id=3D"=
+hs-cta-0d50b667-db8f-4666-80bd-9f1addf9fc1a"> <a href=3D"http://www.bencars=
+on.com/e1t/c/*W4BCdt799L-32W2wVDp-8LF1jR0/*Vfn_Mc1BtJZgW5lWq4_2ZF97w0/5/f18=
+dQhb0S1Wf29gNYCV11wkc5kq5c2W6bMnTx2FKk97W36BYwt8-LlBMW6b165b5lD7tNW5K7PF14B=
+pTwlW7VHYFt7yKt12M27YDYsLm-1W9lDfzw2rrrWHN6Qfcrzj4qZZW8vZQPP2CylHzW5yqhkJ44=
+XcJDW99Zfr654RSTgW8_RwrL3MQ0pGVQr_Tx15YT0MN2cTRLjjr81nW5z7kxH6pzfq-N1n09kHV=
+mxHjM2ddsXlSpp_VSSG7G4stghdW9dlhXK6VCWB2W3rKv1W8LJcTtVDgRdN6Z7G-TW5V-_kL3fr=
+k7mW2HqZ_W59TFvVVV2P0n2g5fLfW9b6D0P8hqY9-W7Wk7zp1PmyWFW7Jynj25WskjtW4844Nr3=
+j14S6V_sf8s6Y9mLMW5wb4L94XCzpsVJ1Hc71JH9Y_W6h8m7p8Z_Dg3W1J31dK1glw4XVFQnnS5=
+9LD9CW5SRDRc3BylG1W6SpXhL5qP11RW7y9hgV3-6pNsW4QfSMc2qjh4dVCVrhg6rSxwJW2QC2t=
+L13zJ6cW55GYqg3VbFKrW7RWFXP6HrbZ5W2gbcVn2s19tJW1pS_zy6lTlSjW270Xw-4cgvjcW7_=
+d8-R6C_gPyW17Hhfd35rr4-W1-LRKR3v4pVGW6t5xGT7X6H8RW182TFM4Vfzd0W2k_sXQ3Y_-1d=
+W3P-2645Q9YWkW7sfbp94Btcr7W5R4Jn34F3hF7W3VqW587dCJpyW6_l2Z-6T4Y4jW9c00G_9fH=
+0d9N2DwPwgjjf_L111" data-hs-link-id=3D"0"> <img class=3D"hs-cta-img" id=3D"=
+hs-cta-img-0d50b667-db8f-4666-80bd-9f1addf9fc1a" style=3D"border-width:0px;=
+ width: auto !important; max-width: 100% !important;" mce_noresize=3D"1" sr=
+c=3D"http://cta-image-cms2.hubspot.com/ctas/v2/public/cs/il/?pg=3D0d50b667-=
+db8f-4666-80bd-9f1addf9fc1a&amp;pid=3D527315&amp;ecid=3DACsprvs8J-9pNYgXcCw=
+D-TKXzyhBm3uH6Xn-nOttUsbrYxqRhTToY1yrc8IHK_CXe0FX9U7iMm2V" alt=3D"RSVP NOW"=
+></a> </span> </span>=20
+<!-- end HubSpot Call-to-Action Code --> </strong></p>
+<p style=3D"margin-bottom: 1em; ">&nbsp;</p>
+<p style=3D"margin-bottom: 1em; ">For more information, please contact Jary=
+n Haines at <br><a href=3D"mailto:jaryn.haines@carsonhq.com" data-hs-link-i=
+d=3D"0">jaryn.haines@carsonhq.com<br></a></p></div>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+                </div><!--end widget-span -->
+            </td>
+        </tr>
+        <tr>
+            <td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" s=
+tyle=3D"width:100.0%; text-align: left; padding: 0; font-family: 'Helvetica=
+ Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5em; =
+color: #222222; ">
+                <div class=3D"widget-span widget-type-text " style=3D"paddi=
+ng: 10px 0px 0px 0px; text-align: right; " data-widget-type=3D"text">
+                    <div class=3D"layout-widget-wrapper">
+                        <div id=3D"hs_cos_wrapper_social_sharing_label" cla=
+ss=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit; margin: inher=
+it; padding: inherit" data-hs-cos-general-type=3D"widget" data-hs-cos-type=
+=3D"text"></div>
+                    </div><!--end layout-widget-wrapper -->
+                </div><!--end widget-span -->
+            </td>
+        </tr>
+        <tr>
+            <td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" s=
+tyle=3D"width:100.0%; text-align: left; padding: 0; font-family: 'Helvetica=
+ Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5em; =
+color: #222222; ">
+                <div class=3D"widget-span widget-type-social_sharing " styl=
+e=3D"padding: 10px 0px 0px 0px; text-align: right; " data-widget-type=3D"so=
+cial_sharing">
+                    <div class=3D"layout-widget-wrapper">
+                        <div id=3D"hs_cos_wrapper_Social_Sharing" class=3D"=
+hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_social_sharing" st=
+yle=3D"color: inherit; font-size: inherit; line-height: inherit; margin: in=
+herit; padding: inherit" data-hs-cos-general-type=3D"widget" data-hs-cos-ty=
+pe=3D"social_sharing"></div>
+                    </div><!--end layout-widget-wrapper -->
+                </div><!--end widget-span -->
+            </td>
+        </tr>
+    </tbody></table>
+</div><!--end body wrapper -->
+                                                                        <!-=
+- end body section -->
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <!-- end content -->
+                                        </tbody></table>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor=3D"#ffffff" style=3D"background-color: #ffffff;=
+ padding: 13px 30px">
+                    <div align=3D"center">
+                        <table cellpadding=3D"0" width=3D"600" cellspacing=
+=3D"0" border=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" bgcolor=3D"#ffffff" st=
+yle=3D"background-color: #ffffff">
+                                    <!-- start footer section -->
+                                    <div class=3D"footer-container-wrapper">
+    <table class=3D"wrappertable" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"600">
+<tbody><tr class=3D"scaffold" style=3D"font-size:0; height: 0px" height=3D"=
+0"><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: 0px=
+; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" wi=
+dth=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&nbsp=
+;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-height: =
+0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0"=
+ width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px">&n=
+bsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-heigh=
+t: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=3D=
+"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0px"=
+>&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line-he=
+ight: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" height=
+=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height: 0=
+px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"line=
+-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" hei=
+ght=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; height=
+: 0px">&nbsp;</td><td colspan=3D"1" height=3D"0" width=3D"8.33%" style=3D"l=
+ine-height: 0px; font-size: 0px; height: 0px">&nbsp;</td><td colspan=3D"1" =
+height=3D"0" width=3D"8.33%" style=3D"line-height: 0px; font-size: 0px; hei=
+ght: 0px">&nbsp;</td></tr>
+
+        <tr>
+            <td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"" s=
+tyle=3D"width:100.0%; text-align: left; padding: 0; font-family: 'Helvetica=
+ Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5em; =
+color: #222222; ">
+                <div class=3D"widget-span widget-type-email_can_spam " styl=
+e=3D"" data-widget-type=3D"email_can_spam">
+                    <p id=3D"footer" style=3D"margin-bottom: 1em; font-fami=
+ly: Geneva, Verdana, Arial, Helvetica, sans-serif; text-align: center; font=
+-size: 12px; line-height: 1.34em; color: #999999; display: block">
+Carson America, Inc.
+&nbsp;&nbsp;P.O. Box 26261
+&nbsp;
+&nbsp;Alexandria,
+&nbsp;VA
+&nbsp;&nbsp;22313
+&nbsp;&nbsp;
+<br><br>
+You received this email because you are subscribed to Events from Carson Am=
+erica, Inc..
+<br><br>
+Update your <a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D=
+"http://www.bencarson.com/e1t/c/*W454spP1dym1TMm5NP9_Sh2W0/*W7x2qnQ3rg7F3W3=
+lKt-R1LQB9h0/5/f18dQhb0S65P6XNQnHVM--9Q2YwbsPW4St6Q42KhVRMW1w_trW1qhnR8W5Gf=
+h0B9d1f4LW8z2pVk172Wm-W6yWR5t7Y2Fm5W71lrfH1q52xjV6Cpl77Wk2Z2N72tmK122Bp7W4f=
+F30m4xxNnQW8tH7L93zGTYYW3W2_1P3_F9ysW4P42Yg26M6S6W8ghX0320L0WgW40LxFW6jp1s_=
+W4WymfH2CjlNxN6kGTKZlKyjVN490bWcvs-KBW1rssgs1Nl_bPW6gVM4W1MRbjkW7dGnM47hH9H=
+2W4pChGt6CJmY1W85c2rZ8ThSR9W44PG1v8dcDmJW58jq3j36dnq4W1dBZ-y1T3xRdW3ZBDn112=
+4S9QW5vPBJS6f9PDtW7xWG7r8R0Kr1W5TCZqW4BnY9LN1KKdKyYmftLW7XK3p32sfc2WW5TvpQt=
+6Rs0h0W7t3qnw7zyP6KW1bsFJT67DnQtW381VBK4fcKWcW3QpKsc1TQYvTN7mplz2xgKcWW2q_5=
+Zl5lcc_CN5qkXXVKx0VlW2Zqbxz6C7g8JW7LBhth2KlYznVl5bvP5FN_gRN32zfnKpsz03W1DLD=
+rj5js0tPW8MVfBc22MtRTW20Fxq74CnTCvW4BK6QY3_dPPnW7bGLH47G76VFN8kMtpwjX7-LW7_=
+RSyR3HrBqWN7kMMcGSVSDTW7nhlpx833RQ5W1_-QQg6YzfbkW51vVwW1JgZ_HW4wmJtP6WlfttW=
+8yvV0Z3Q0P5tW6VnKXq3tYybKN8ksTy1TmvFVW43_QWQ94J37dW85RqTg2kT9tHf5LWThg03" s=
+tyle=3D"text-decoration: underline; whitespace: nowrap; color: #999999;" da=
+ta-hs-link-id=3D"0">email preferences</a> to choose the types of emails you=
+ receive.
+<br><br>
+&nbsp;<a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D"http:=
+//www.bencarson.com/e1t/c/*W454spP1dym1TMm5NP9_Sh2W0/*W7zgxHN99JWv4W1qyV3c5=
+z9LnF0/5/f18dQhb0S65P7Bf-yPVWW3WM1MMRRNW5hTFGB5XcfRrN5mZQNRW3MJCW914Fk98JbL=
+-YW5y3k3X5Jhf_DW1pzk9x7x1TR8W55gpfD4MYkYHW2pNrld527s3rW7L9kjt8RjcS6W5fMGz95=
+QCbLtW939BmN8V-DWgW3Z_d-487cpf0N3C0XMzQKsDFW3MPLP83kWY53W6x2NQC8zsBXDW40JFK=
+D28LS-NW8x6Tqw1dl8sWW3wbdTs3PSDq8W7v65LY6qf91kN4TNd1gXJfdsW8GJwKb8gBss3W7kJ=
+Qh98w4ZXnMrXtpd62p_CW5KG3VD3h5FRPN5c9x-vlpb-dVXtdRK4-W_NPW3W56NS8-6gqjW13wn=
+tH62m-5bW5NR3fF5ZqxjjW348Wvg3q1rjDW3bmln25d-l_pW6BHJQ08y2m11N5jCwbl_4STdW5g=
+Zhc58zRtS7W4PzJ3P13TpMdW4cxbKk3DPjKkV_55l47mXRNMW47Tlfx4FR6L6W6HmhS46RMfz9W=
+52FhWF8pQzfKW3gQN3v9kBxPNN8DZNzqxV__WW58Cx51359xvrN2L8RZQ81SzGW160km24C6NrC=
+Vsbm0K6BfT__W2LvhTx8dlHdlW1ct6411MTm7SW7gJT0G7dxppmW4f6J4v3ZrbQTW5fNSnv1MgQ=
+2tW49d_Ch5s99dCW52h7Tr49VDWcW8DpfgV3n_WRwW5hfJyS914-JLW8XjbFm7dbN4hW8D4W_09=
+hF_LbN8StnlLTqhCBW3PZhQ697dvwMW2WDWQG7BlV1yW6JvN4B3n7-3kN3fLkzdSppxx0" styl=
+e=3D"text-decoration: underline; whitespace: nowrap; color: #999999;" data-=
+hs-link-id=3D"0">Unsubscribe from all future emails</a>&nbsp;
+</p>
+
+                </div><!--end widget-span -->
+            </td>
+        </tr>
+    </tbody></table>
+</div><!--end footer wrapper -->
+                                    <!-- end footer section -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+        <!-- end container -->
+=20=20=20=20
+<!-- end coded_template: id:3179327192 path:generated_layouts/3179327182.ht=
+ml -->
+<img src=3D"http://www.bencarson.com/e1t/o/*W1MJcrq8H4GsjW6H2NH01xSknV0/*W5=
+Mnyjz5L2Ln7VsDz7y7_8Hn60/5/f18dQhb0KdhDBWRlfN6Q_SmGHzfXVW62QpZG6bzKVtN4GzYM=
+LFySDDD79vxcTrHNW5yj13h2xQHwHW3LRkPm4tzCglW5bWW8g1Jkl_qW2cyH2G6D07CQW3sYxyc=
+8qBprQVYPmp55P9_P8W93D_LT9cW6m_n6qX808RZf3hTjXb02" alt=3D"" width=3D"1" hei=
+ght=3D"1" border=3D"0" style=3D"display:none!important;min-height:1px!impor=
+tant;width:1px!important;border-width:0!important;margin-top:0!important;ma=
+rgin-bottom:0!important;margin-right:0!important;margin-left:0!important;pa=
+dding-top:0!important;padding-bottom:0!important;padding-right:0!important;=
+padding-left:0!important"><style>@media print{#_hs { background-image: url(=
+'http://www.bencarson.com/e1t/o/*W1MJcrq8H4GsjW6H2NH01xSknV0/*W5p06X15cx1Kv=
+W2J6YVl5__bRT0/5/f18dQhb0KdhJBV8rLN6Q_SmGHzfXVW62QpZG6bzKTVW2mp9f_4-tC2kW4P=
+w4J12sbPxnVvRdKX2xHz41W41RHf82t7zkxW3Ml_224C-5FBW5qv4fv7j21GXW924nGL3TZfRFW=
+4KLbq38MPrjmW8Qsq0w7bH5Z_W18x6703wqsngf5MB3fW01');}} div.OutlookMessageHead=
+er {background-image:url('http://www.bencarson.com/e1t/o/*W1MJcrq8H4GsjW6H2=
+NH01xSknV0/*W3QKKFk2P7YPlW1vKd9N42mKlv0/5/f18dQhb0S6Hd5gn9z1N6Q_SmGHzfXVW62=
+QpZG6bzKWmW5HQHpl3FsfphW4PFxqB5ZH4gdW448gk96sxY_VW38zbDs2J3NgPW41Q2Wg3sm0wn=
+W2Gm4xd5x6QYRW8N5Qvg6ZkK06W3GS-WD6X5d5sW24cQb81scthKW3bLryS7H_13FTsjP18jGFM=
+0103')} table.moz-email-headers-table {background-image:url('http://www.ben=
+carson.com/e1t/o/*W1MJcrq8H4GsjW6H2NH01xSknV0/*W3QKKFk2P7YPlW1vKd9N42mKlv0/=
+5/f18dQhb0S6Hd5gn9z1N6Q_SmGHzfXVW62QpZG6bzKWmW5HQHpl3FsfphW4PFxqB5ZH4gdW448=
+gk96sxY_VW38zbDs2J3NgPW41Q2Wg3sm0wnW2Gm4xd5x6QYRW8N5Qvg6ZkK06W3GS-WD6X5d5sW=
+24cQb81scthKW3bLryS7H_13FTsjP18jGFM0103')} blockquote #_hs {background-imag=
+e:url('http://www.bencarson.com/e1t/o/*W1MJcrq8H4GsjW6H2NH01xSknV0/*W3QKKFk=
+2P7YPlW1vKd9N42mKlv0/5/f18dQhb0S6Hd5gn9z1N6Q_SmGHzfXVW62QpZG6bzKWmW5HQHpl3F=
+sfphW4PFxqB5ZH4gdW448gk96sxY_VW38zbDs2J3NgPW41Q2Wg3sm0wnW2Gm4xd5x6QYRW8N5Qv=
+g6ZkK06W3GS-WD6X5d5sW24cQb81scthKW3bLryS7H_13FTsjP18jGFM0103')} #MailContai=
+nerBody #_hs {background-image:url('http://www.bencarson.com/e1t/o/*W1MJcrq=
+8H4GsjW6H2NH01xSknV0/*W3QKKFk2P7YPlW1vKd9N42mKlv0/5/f18dQhb0S6Hd5gn9z1N6Q_S=
+mGHzfXVW62QpZG6bzKWmW5HQHpl3FsfphW4PFxqB5ZH4gdW448gk96sxY_VW38zbDs2J3NgPW41=
+Q2Wg3sm0wnW2Gm4xd5x6QYRW8N5Qvg6ZkK06W3GS-WD6X5d5sW24cQb81scthKW3bLryS7H_13F=
+TsjP18jGFM0103')}</style><div id=3D"_hs"></div></body></html>=
+
+------=_Part_1076579_568317118.1454591604644--
+
+
+From 1522226934374423087@xxx Sat Jan 02 04:25:31 +0000 2016
+X-GM-THRID: 1522226934374423087
+X-Gmail-Labels: Republicans/Carson
+Delivered-To: 98xjsmith@gmail.com
+Received: by 10.107.62.195 with SMTP id l186csp3595761ioa;
+        Fri, 1 Jan 2016 20:25:31 -0800 (PST)
+X-Received: by 10.182.153.169 with SMTP id vh9mr54498252obb.83.1451708730963;
+        Fri, 01 Jan 2016 20:25:30 -0800 (PST)
+Return-Path: <bounces+1611873-21df-98xjsmith=gmail.com@mail8.shared.hubspot.com>
+Received: from o4.mail8.shared.hubspot.com (o4.mail8.shared.hubspot.com. [198.37.146.119])
+        by mx.google.com with ESMTPS id u23si13626352oia.14.2016.01.01.20.25.30
+        for <98xjsmith@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 01 Jan 2016 20:25:30 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+1611873-21df-98xjsmith=gmail.com@mail8.shared.hubspot.com designates 198.37.146.119 as permitted sender) client-ip=198.37.146.119;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+1611873-21df-98xjsmith=gmail.com@mail8.shared.hubspot.com designates 198.37.146.119 as permitted sender) smtp.mailfrom=bounces+1611873-21df-98xjsmith=gmail.com@mail8.shared.hubspot.com;
+       dkim=pass header.i=@bencarson.com;
+       dkim=pass header.i=@sendgrid.info
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=bencarson.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe; 
+	s=smtpapi; bh=SjDUtuBdrMW4Jwit6GIG0ZE+jQg=; b=HBekikyWzCruO/VLLY
+	HKWdcHwFu8He1v/NbfuK6mO4koyKAiVKGHZmvwf0AnkX6nariXzVniGpwcVv/bjf
+	NE6THMQ15H7XeZ3isbTqTeljwuC5ToDwu9Cfeu6EkqM/z6siNSh83pii+aKtwyQ4
+	390PJt81TonFTYgYfSX0143N0=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=SjDUtuBdrMW4Jwit6GIG0ZE+jQg=; b=L5dBDVEaGB/3ZuSJMZ
+	FoDUMR6rHenz3o1Rre9ELL/XeSNJUtaCg1mNDvR47xxz2Pjwp2UI0tgb/mUUIwbJ
+	spu+MGAYWbf3T+X+h0Fr6aM626mFLtrV0fZODPrAplxFhTQM92kPv9PcyfB1mGLN
+	FDyrJ0Pr5fLibwobZQ8yBIBxA=
+Received: by filter0523p1mdw1.sendgrid.net with SMTP id filter0523p1mdw1.26183.5687513914
+        2016-01-02 04:25:29.289393079 +0000 UTC
+Received: from orange-salad (ec2-54-174-54-182.compute-1.amazonaws.com [54.174.54.182])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id 51UKnkP8TtyWHcJwC5pHzQ
+	for <98xjsmith@gmail.com>; Sat, 02 Jan 2016 04:25:28.727 +0000 (UTC)
+From: Ben Carson <info@bencarson.com>
+Reply-To: info@bencarson.com
+To: 98xjsmith@gmail.com
+Message-ID: <1451708728227.7efde987-4d49-400e-bdae-1efecf0539b4@smtp.hubapi.com>
+Subject: Ben Carson for President Welcomes You
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8293264_1953894235.1451708728718"
+List-Unsubscribe: <mailto:MDbQtgXbbyFW4ZHtKY1PGRkdW26BJd-4pBTT9W3T3R3K3P3Q7wn3ZsjYm213@m.hsms09.com>, <http://www.bencarson.com/e1t/c/*W20j8Fr6yTmMjW25lPyM4fjNmn0/*W3Syq_X3wX36jW4mSh1m79sCqS0/5/f18dQhb0S1W72nTbgnTxM-Q3nJNSvW8y5zP5762f-zW3ZT1QW1BbjY1W57wLMr6w-D3qVYmFwz1HDnhkW4WcbH68KjYycW4sMdn_9l43SZW5QYS7d2jyKjwW8M9FG36BmT07Mq6HtrsldjNN5FclKMpj183W84mLvn2SbX2kVBfZ195rN_88VHFKY98TjzpJW683vYS4SxMnLW2C2vb81g6QqwW4rCL5V3VgVnxW4qkwGb98Rd0FW1zdpkD47zL-MW32cvZ645jFDSW6-c1M_38P-MSW7bRYFz7SMBB5W8f4Q2M8q_RLvW2fyy9x1GbFgNW4FjVqk1_GFS8W4FJVRr7WcBxJW56XNrr7Zyn2PW2bn2B32J6F4GW1qS2tz6rDgdWW5wKTJ-7DNJDsW5vcsSj2193f2W1sK_rH22ZhTFN5V1svxyCXNxf84cWPx03>
+X-HubSpot-MID: CiQ3ZWZkZTk4Ny00ZDQ5LTQwMGUtYmRhZS0xZWZlY2YwNTM5YjQQ05cgGO4RIAEoh6nqCjD9txo6Ezk4eGpzbWl0aEBnbWFpbC5jb21Ao4fVhKAqSPECWig1NTc0Y2RhMTMyZjIxZGFhODVjNDg0OTlkZDY4MTQ2M2Q4MmEzNDIycKuN8AiAAQCYAQGgAQCoAQiwAQA=
+Date: Sat, 02 Jan 2016 04:25:29 +0000 (UTC)
+X-SG-EID: 4g5n379ze/NJ2Hiddy0rZMGlTv2/XvOMaLvakFLnOIW5LpKdY/bQkwn0rEAgmQfmYjHkMeEtfYHykd
+ a7sSVGeBuYZDtHvBybMvQyGtqboiD+vOMwdkp8UXTbyxhoM2ivmjnPUHSxHu53T5YFUBOoaMFteBlU
+ EM+R7eWi/rJRZHhwDtlasKBz6ZNDgAbQGkwFYlvIDHsi38dJJ8Pd4OwGVw==
+X-SG-ID: BaKDar+VrkG/S9kwb9JXA5vhcywFmdcWmtxqxq6Ax91P9zMrSliBSApaQooUSzZXaFtOgCK2myUZmC
+ PBWY8dMlmYLmvXdD0xDoy9y5amYhEZNXqQ9ZyYATSDr5EI03eSX9ZT8EZXxgnuPUCix0rMZyKLjKgq
+ nEBlGz8eWDbS8jHcNRYk9BCWPtHwHFwUFO3qW/VIOmYrDId5+d93SyzBxTwJWJARUFccXBtK/Yh87/
+ IcSWobmDzUWdmrXZSJD8nDrfupZRpvSI5aEZMwR/IcIZeF6AD7sbwIHEmrI39aXqM=
+X-Feedback-ID: 1611873:B/cyGK79zqG1gCMkXewzK3M4etoBPLdmcWzj6hpdpVE=:B/cyGK79zqG1gCMkXewzK3M4etoBPLdmcWzj6hpdpVE=:SG
+
+------=_Part_8293264_1953894235.1451708728718
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for signing up to receive emails from my campaign. I=E2=80=99m ex=
+cited to have you join the team =E2=80=93 and I hope to have your help in t=
+he future.
+
+These emails come from the friendly folks at the Ben Carson for President t=
+eam. If you would like, you can update email subscription preferences (http=
+://www.bencarson.com/hs/manage-preferences/unsubscribe?v=3D1&d=3DeyJlYSI6Ij=
+k4eGpzbWl0aEBnbWFpbC5jb20iLCJlYyI6MjI3MTM0NzksInN1YnNjcmlwdGlvbklkIjo0MzMxN=
+DksImV0IjoxNDUxNzA4NzI4MjI3LCJldSI6IjdlZmRlOTg3LTRkNDktNDAwZS1iZGFlLTFlZmVj=
+ZjA1MzliNCJ9&utm_source=3Dhs_automation&utm_medium=3Demail&utm_content=3D22=
+713461&_hsenc=3Dp2ANqtz-_KCT0L_M5XLQ7G5VFHfPwhu3cmqadjpDMBSHfvXOQdYS7NW2CRx=
+LeKQcLVRMeeZqOaCHAgv-tYYuTZ-DnqXv2sdKn5Kg&_hsmi=3D22713479) .
+
+Ben Carson for President (https://www.bencarson.com?utm_source=3Dhs_automat=
+ion&utm_medium=3Demail&utm_content=3D22713461&_hsenc=3Dp2ANqtz-_mzWxocvJ6AR=
+pjPT6cj4jIzid6YE0dLZUB4xzlt60u8agh9I5Dj8EOfEfnRhY4y192-ZpMPTnhCMRIGapiWcPpS=
+3H4WQ&_hsmi=3D22713479)
+
+John,
+
+Thank you for signing up to receive emails from my campaign. I=E2=80=99m ex=
+cited to have you join the team =E2=80=93 and I hope to have your help in t=
+he future.
+
+This is a very difficult time for the United States of America. We face dau=
+nting challenges at home and unprecedented challenges abroad. It=E2=80=99s =
+time for new leadership. It=E2=80=99s time for a fresh start. I=E2=80=99m r=
+unning for President because I believe I can lead our nation toward more pr=
+osperity, security, and freedom for every American.
+
+Often, you=E2=80=99ll hear my critics say that I have no =E2=80=9Cpolitical=
+=E2=80=9D experience, but I don=E2=80=99t believe America needs more politi=
+cs. (https://www.bencarson.com/contribute/contribute-ga/?utm_source=3Dhs_au=
+tomation&utm_medium=3Demail&utm_content=3D22713461&_hsenc=3Dp2ANqtz-_cFVNVF=
+JJHdu-VSLq7A4xVMii_WkI2SveHZK-sq0W1MJZKQMrof-vcmsdIyHPFx35KszIUCIsWFCLZgXjF=
+BkxzC_qQQg&_hsmi=3D22713479)
+
+We need to heal, we need to be inspired, and we need to revive that excepti=
+onal spirit that built America.
+
+If you believe we need change, there are a few things you can do to help:
+
+- Share your thoughts with your friends and family =E2=80=93 let them know =
+you are ready for change by liking my Facebook page (https://www.facebook.c=
+om/realbencarson?fref=3Dts&utm_source=3Dhs_automation&utm_medium=3Demail&ut=
+m_content=3D22713461&_hsenc=3Dp2ANqtz-9wA0b8IOj7VmH2LkEz4k4SJ30GA6_0kb4E9OZ=
+nfti0AYgudmQnhyEDrcGQNfez5UfUvxY-vRBC4cn6LE-m3shVVXp5BA&_hsmi=3D22713479) .
+- Give me your feedback (https://www.bencarson.com/contact/?utm_source=3Dhs=
+_automation&utm_medium=3Demail&utm_content=3D22713461&_hsenc=3Dp2ANqtz-_kPO=
+5PdcgtacjpD9KBdRqmBphYegKIrTCQQMemF6zFOakBCRwCHRwoq7i8lzKHQ-GcmBLZBX065wLGQ=
+Lu7-BT4d0F9ZA&_hsmi=3D22713479) . Let me know what you believe our country =
+needs most and how we can do it together.
+- When you are ready, become a volunteer in your community (https://www.ben=
+carson.com/volunteer/?utm_source=3Dhs_automation&utm_medium=3Demail&utm_con=
+tent=3D22713461&_hsenc=3Dp2ANqtz-9iLFLKHE8786ShXeaFKJibkOCAAODjVKKiSs1x_KZ-=
+HfqkF6CVgELIrjvUHOvLvFMAn53jQImxZYg5N5b2lzlr8vSRIw&_hsmi=3D22713479) . We c=
+an use your help and you will be the first to know when things are happenin=
+g where you live.
+
+I'm thrilled that you've taken the time to sign up. Over time, I hope to ea=
+rn your steadfast support, and your vote.
+
+Sincerely,
+
+Ben Carson
+
+Donate Now (https://www.bencarson.com/contribute/contribute-ga/?utm_source=
+=3Dhs_automation&utm_medium=3Demail&utm_content=3D22713461&_hsenc=3Dp2ANqtz=
+-8gW3IQaphZIpvUImvIf8-EYvnE4f5WQv3SbhSUR2TnQFlJpPH4trI4qLyJd_tDlhX8FERR2p4v=
+gloFz1JsvL84zSlAfA&_hsmi=3D22713479)
+
+Facebook (https://www.facebook.com/realbencarson?utm_source=3Dhs_automation=
+&utm_medium=3Demail&utm_content=3D22713461&_hsenc=3Dp2ANqtz-8sGyC5OuRQ-Syht=
+Zj_bQ28gDH0SYgwk_CTafvmEM3i5fbIsL_dE2uN2kFsDoUFB3OEn_DhHxaYSuH0hHkI5Mk5oBHL=
+Rw&_hsmi=3D22713479)
+Twitter (https://twitter.com/realbencarson?utm_source=3Dhs_automation&utm_m=
+edium=3Demail&utm_content=3D22713461&_hsenc=3Dp2ANqtz-9z3KAEebUumhk1NRTmmJ2=
+aNQLvsxPUPTDZE6Vk0YFjuzTJrdBt1J07IIfDRK5AiLN5_OZvVBoGyxpHQYDSo1A-g5r_rw&_hs=
+mi=3D22713479)
+YouTube (https://www.youtube.com/user/realbencarson?utm_source=3Dhs_automat=
+ion&utm_medium=3Demail&utm_content=3D22713461&_hsenc=3Dp2ANqtz--mQFbC878MTK=
+aYMxmEoMls9Y5QLKMy5dIexS44piERRh_XXJm28gN4J4mlBDRv6xVy1i_ywCQPDvjZcPgkl0fpP=
+5KRzQ&_hsmi=3D22713479)
+Instagram (https://instagram.com/realbencarson/?utm_source=3Dhs_automation&=
+utm_medium=3Demail&utm_content=3D22713461&_hsenc=3Dp2ANqtz-9bCnrPH9qI_-wlEf=
+DewLOl6nDXIT3NncxTAchnoZ2_86fUh5u0POcykzM4EgXgBmvm3db_vbwJPnG_bpXOfN373HEO7=
+w&_hsmi=3D22713479)
+
+Carson America, Inc.
+P.O. Box 26261
+
+Alexandria
+VA
+22313
+
+You received this email because you are subscribed to Ben Carson Updates fr=
+om Carson America, Inc..
+
+Update your email preferences (http://www.bencarson.com/hs/manage-preferenc=
+es/unsubscribe?v=3D1&d=3DeyJlYSI6Ijk4eGpzbWl0aEBnbWFpbC5jb20iLCJlYyI6MjI3MT=
+M0NzksInN1YnNjcmlwdGlvbklkIjo0MzMxNDksImV0IjoxNDUxNzA4NzI4MjI3LCJldSI6IjdlZ=
+mRlOTg3LTRkNDktNDAwZS1iZGFlLTFlZmVjZjA1MzliNCJ9&utm_source=3Dhs_automation&=
+utm_medium=3Demail&utm_content=3D22713461&_hsenc=3Dp2ANqtz-90ns6-NmvwOv3fVz=
+vifWeFl9_M6Sh9wUvQ16waCbbihcpUpnR-XUCyCQXxo3SngnJEIgMTGul27EbTRSUSzOJrhdNDp=
+A&_hsmi=3D22713479) to choose the types of emails you receive.
+
+Unsubscribe from all future emails (http://www.bencarson.com/hs/manage-pref=
+erences/unsubscribe-all?v=3D1&d=3DeyJlYSI6Ijk4eGpzbWl0aEBnbWFpbC5jb20iLCJlY=
+yI6MjI3MTM0NzksInN1YnNjcmlwdGlvbklkIjo0MzMxNDksImV0IjoxNDUxNzA4NzI4MjI3LCJl=
+dSI6IjdlZmRlOTg3LTRkNDktNDAwZS1iZGFlLTFlZmVjZjA1MzliNCJ9&utm_source=3Dhs_au=
+tomation&utm_medium=3Demail&utm_content=3D22713461&_hsenc=3Dp2ANqtz--QjjoKg=
+fVhW8IRpbK6gMNPHD9lohtQvGYe5xgnht4c3UQOosgOIEmtyMrh7u7b5vLh81iTdc2LkGsM2K90=
+arFv1-52FA&_hsmi=3D22713479)
+
+Paid for by Carson America, Inc.=
+
+------=_Part_8293264_1953894235.1451708728718
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!-- start coded_template: id=
+:3560505005 path:custom/email/web_page_basic/Basic_Email_Template_Responsiv=
+e.html --><html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8">
+        <!--[if !mso]><!-->
+			<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+		<!--<![endif]-->
+		<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+		<title></title>
+		<style type=3D"text/css" id=3D"hs-inline-css">
+            /*<![CDATA[*/
+            /* everything in this style tag will be inlined onto matching e=
+lements */
+            /* Basics */
+				body {
+					margin: 0;
+					padding: 0;
+					min-width: 100%;
+					background-color: #eee;
+				}
+				table {
+					border-spacing: 0;
+					font-family: sans-serif;
+					color: #333333;
+				}
+				td {
+					padding: 0;
+				}
+				img {
+					border: 0;
+				}
+				.wrapper {
+					width: 100%;
+					table-layout: fixed;
+					-webkit-text-size-adjust: 100%;
+					-ms-text-size-adjust: 100%;
+					text-align: -moz-center;
+				}
+				.webkit {
+					width: 100%;
+					max-width: 560px;
+				}
+=09=09=09=09
+				.wrapper, .webkit {
+					background-color: #eee;
+				}
+=09=09=09
+				.full-width-image--img {
+					display: block;
+					width: 100%;
+					max-width: 560px;
+					height: auto;
+				}
+=09=09=09=09
+				.small-width-image--img {
+					display: block;
+					width: 100%;
+					margin: 1em 0 2em 0;
+					max-width: 322px;
+					height: auto;
+				}
+=09=09=09=09
+				.outer {
+					padding: 1em 0;
+				}
+=09=09=09=09
+				.opt-out {
+					color:  #666;
+					font-size: 11px;
+					line-height: 16px;
+					margin-bottom: 1em;
+				}
+
+
+				p, li {
+					margin: 0;
+				}
+				a {
+					color: #0081CB;
+					text-decoration: underline;
+				}
+				.h1 {
+					font-size: 21px;
+					font-weight: bold;
+					Margin-bottom: 18px;
+				}
+				.h2 {
+					font-size: 18px;
+					font-weight: bold;
+					Margin-bottom: 12px;
+				}
+=09=09=09=09
+				.contents {
+					max-width: 560px;
+					width: 100%;
+				}
+=09=09=09=09
+				.main-content {
+					background-color: white;
+					width: 100%;
+				}
+=09=09=09=09
+				.main-content td {
+					padding: 1em;
+				}
+=20
+				/* One column layout */
+				.one-column .contents {
+					text-align: left;
+				}
+				.one-column p, .one-column li {
+					font-size: 16px;
+					line-height: 26px;
+					margin-bottom: 10px;
+				}
+=09=09=09=09
+				.grey-line {
+					padding: 1em 0;
+				}
+=09=09=09=09
+				.grey-line img {
+					display: block;
+					height: 1px;
+					width: 100%;
+					max-width: 560px;
+				}
+=09=09=09=09
+				.footer p {
+					color:  #666;
+					font-size: 11px;
+					margin-bottom: 0;
+				}
+
+=09=09=09=09
+
+				.disclaimer td {
+					border: 1px solid #666;
+					color: #666;
+					font-size: 14px;
+					padding: 1em;
+					text-align: center;
+					width: 50%;
+				}
+=09=09=09=09
+				#preview_text {
+					display: none!important;
+					color: #eee;
+					height: 0;
+					width: 0;
+				}
+=09=09=09=09
+				.footer-donate-social {
+					width: 100%;
+				}
+=09=09=09=09
+=09=09=09=09
+=09=09=09=09
+				.donatenow a {
+					color: white;
+					display: block;
+					font-weight: bold;
+					text-align: center;
+					text-decoration: none;
+					text-transform: uppercase;
+				}
+=09=09=09=09
+				.donatenow td {
+					padding: 1em 1em .75em 1em;
+					text-align: center;
+				}
+=09=09=09=09
+				.footer-donate-social__inner {
+					padding: 1em;
+					width: 50%;
+				}
+=09=09=09=09
+				.footer-donate-social__inner table {
+					width: 100%;
+				}
+=09=09=09=09
+				.footer-social__wrapper {
+					text-align: right;
+				}
+=09=09=09=09
+				.social-button--fb {
+					width: 16px;
+				}
+=09=09=09=09
+				.social-button--tt {
+					width: 37px;
+				}
+=09=09=09=09
+				.social-button--yt {
+					width: 26px;
+				}
+
+				.social-button--ig {
+					width: 32px;
+				}=09=09=09=09
+=09=09=09=09
+            /*]]>*/
+        </style>
+        <style type=3D"text/css">
+        	@media only screen and (min-device-width: 320px) and (max-device-w=
+idth: 568px) {
+				td[class=3Dfooter-donate-social__inner] {
+					display: block !important;
+					width: 88% !important;
+				}
+				td[class=3Dfooter-social__wrapper] {
+					text-align: center !important;
+				}
+				td[class=3Dfooter-donate-social__inner--top] {
+					padding-bottom: 0 !important;
+				}
+			}
+=20=20=20=20=20=20=20=20
+        </style>
+		<!--[if gte mso 9]>
+		<style type=3D"text/css">
+			table {
+				border-collapse: collapse;
+			}
+			.full-width-image--img img {
+				height: 156px !important;
+				width: 560px !important;
+			}
+			.footer-donate-social {
+				width: 560px !important;
+			}
+		</style>
+		<![endif]-->
+	</head>
+	<body style=3D"margin:0; padding:0; min-width:100%; background-color:#eeee=
+ee" bgcolor=3D"#eeeeee">
+	<!--[if mso]>
+ 		<center>
+ 			<table><tr><td width=3D"560">
+	<![endif]-->=09
+		<center class=3D"wrapper" bgcolor=3D"#eeeeee" style=3D"width:100%; table-=
+layout:fixed; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; tex=
+t-align:-moz-center; background-color:#eeeeee" width=3D"100%" align=3D"-moz=
+-center">
+        	<div class=3D"webkit" align=3D"center" bgcolor=3D"#eeeeee" style=
+=3D"width:100%; max-width:560px; background-color:#eeeeee" width=3D"100%">
+            	<table class=3D"outer contents" align=3D"center" style=3D"bord=
+er-spacing:0; font-family:sans-serif; color:#333333; padding:1em 0; max-wid=
+th:560px; width:100%" width=3D"100%">
+            		<tbody><tr>
+            			<td colspan=3D"2" style=3D"padding:0">=09
+	            			<span id=3D"preview_text" style=3D"color:#eeeeee; height:0;=
+ width:0; display:none!important" height=3D"0" width=3D"0">Thank you for si=
+gning up to receive emails from my campaign. I=E2=80=99m excited to have yo=
+u join the team =E2=80=93 and I hope to have your help in the future.</span>
+            			</td>
+            		</tr>
+            		<tr>
+            			<td class=3D"inner contents" colspan=3D"2" style=3D"padding:=
+0; max-width:560px; width:100%" width=3D"100%">
+            				<p class=3D"opt-out" style=3D"margin:0; color:#666666; font=
+-size:11px; line-height:16px; margin-bottom:1em">These emails come from the=
+ friendly folks at the Ben Carson for President team. If you would like, yo=
+u can <a href=3D"http://www.bencarson.com/e1t/c/*W8xX7RV4YW0_6W2yrdDW29b16V=
+0/*W4XkWYQ38-gMWTdTW_4mX-4q0/5/f18dQhb0S2C97rD5KWMM_tmqVpRzzVjPX9V4N1N6SW1p=
+PSKQ1kt9JYW28LqYT2TFvWsVCsxN58qJ4rcN5GyPyB8Nh-4W294GrJ2pNmYQW6L1Knq2vVMdLW5=
+k5pQq4VCdscW18FRFX8Wl76pW7QT14s66HldSW17CcJ48Pv_6GVpvZ4b8fGWnDW1xPp8q4TLy7C=
+M2fMrxg9kr1N3ndFdZ5CnDMW4ZjsD11WqvcKVdTTPC1c9ny9V5QkhR8mdPz5W6mNPQj5xwy25Vk=
+80rw3xvTBQW684zwT8nS6WmW116XHt3_lFm1W69LHqK2-33FdMG-CqjMjR4dW81BDYY6HKsqHW7=
+kLQ275sMQHDW1WMyJ53-lHc8W6LJ1r-5VcdssW8-gd4_99znCGW2gTGHb2yCHsdW7WqlcW51m5Q=
+hW3jSRNc2MRFBzW4npKcq7khskdN1svsHb-wKYbW60gfn07CRPWCMf1qNRVbKNnW7mzVP97Mnh0=
+RW6v4Mvj1z1V7TW2qv31W4GJg4dW1mmFxk2p6-fGW8jKVSs7fCRn3W5CJsWh8v7j7fW6fyC4T57=
+mnMRW6QfmBY6GMqbYN6Z8l7ZpyZSRW5gvvR14pcrwPW2x_BQD1W9TlTW1hPqKg72F60YW8nD4PP=
+37lV7JW53zlhF8FVm4gW4k0lkq9jSMj_W48nYtl11FrmTW7mvXjy8L9xsyW3JBFlT4-f3YzW8HY=
+_-f811n6ZW8J480N8hRHMBW5xH7CM7JZ7_wW97bQR95SbvKQW3sc5y44pXW-jN91yrqSB1Sgwf1=
+FRHb-03" style=3D"color:#0081cb; text-decoration:underline" data-hs-link-id=
+=3D"0">update email subscription preferences</a>.</p>
+            			</td>
+            		</tr>
+					<tr>
+						<td class=3D"full-width-image" colspan=3D"2" style=3D"padding:0">
+=09=09=09=09=09=09=09
+							<a href=3D"http://www.bencarson.com/e1t/c/*W4QCVGc4MslvDW49k4TK3MWsg=
+00/*W22M1tv52s-c8W45Wfqg1drzCw0/5/f18dQhb0SmhP8Z990-W8pF5MT8LCvkbW57k4Sr58Q=
+qsyW6Dk5Rb1Vqz72VLDpF18CSvhfW8B-3rj1mjv45W8tzLpw8tzK6wW5wL96r8sZ4WSW67b7w67=
+gZbXjW8mFNQC3J4LSBW4KQG3y328h7yW3_Khm_1Vx266W7nwG0k6bnMRgVD4dCR7R0x14N4M3d-=
+KVQf4XN5vDhTYQZ263N3LQph2T8vfgVSd1l-1nPx33W6250GP396zGbVZRXm54Tdq-_W6Q9VLw7=
+d7Cz8W4w-WSP60D147VXhr8n2DmGKZW4tXmNP93n77mW3PpcLN4Zk8bnN6NKdprSH04XW7j9C1N=
+8xqS-KN8GclM4PVZztW7dr9qW72YqDyW3KTzrb3SQk1ZVLRpBF2F6yTvN8ShrZcd8rw0W2-Xr9J=
+67skfDW70R3cC2B6fbqW62XhSv95cMxgW3Cd_495v09PPMrVprBrHDp3f3v715L02" style=3D=
+"color:#0081cb; text-decoration:underline" data-hs-link-id=3D"0"><img src=
+=3D"http://cdn2.hubspot.net/hub/527315/hubfs/email/carson-email-header-ligh=
+t-5.png?t=3D1451515085385&amp;width=3D560&amp;height=3D156" width=3D"100%" =
+height=3D"auto" alt=3D"Ben Carson for President" class=3D"full-width-image-=
+-img" style=3D"border:0; display:block; width:100%; max-width:560px; height=
+:auto"></a>
+						</td>
+				    </tr>
+				    <tr>
+						<td class=3D"one-column" style=3D"padding:0">
+							<table class=3D"contents main-content" bgcolor=3D"white" style=3D"bo=
+rder-spacing:0; font-family:sans-serif; color:#333333; max-width:560px; bac=
+kground-color:white; width:100%; text-align:left" width=3D"100%" align=3D"l=
+eft">
+								<tbody><tr>
+									<td class=3D"inner contents" colspan=3D"2" style=3D"max-width:560p=
+x; width:100%; padding:1em; text-align:left" width=3D"100%" align=3D"left">
+										<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bo=
+ttom:10px">John,</p>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>Thank you for signing up to receive emails from my campaign. I=E2=80=99m e=
+xcited to have you join the team =E2=80=93 and I hope to have your help in =
+the future.</p>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>This is a very difficult time for the United States of America. We face da=
+unting challenges at home and unprecedented challenges abroad. It=E2=80=99s=
+ time for new leadership. It=E2=80=99s time for a fresh start. I=E2=80=99m =
+running for President because I believe I can lead our nation toward more p=
+rosperity, security, and freedom for every American.</p>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+><a href=3D"http://www.bencarson.com/e1t/c/*W4QCVGc4MslvDW49k4TK3MWsg00/*W3=
+QHcWS427mCxW162-sP5XCN230/5/f18dQhb0S5fm8YHsrKW8Tnwn54mQf6dW2zGMJW7d-mZMN3h=
+Hhb7XL0jYVnQ9Qq8--HBkW8-xMXy5lcWNxW8Xlj7s8Wm1tDW8Xl1cn1SPDt1W30Xpwx8xPLm8W6=
+1SSZm7dDxTNW7mWsnX7dz8FNW1nY85c1nbj7VW3VpsGl7NrMZsW3pcMZ27bj20MTz8jv3sxGBwV=
+FjWsr30b7rhW94pXZF2yysBnW5c8d-S3785hGVYytZj1mmFksW2hgw-f2HFmjFW2zQv748nnzst=
+N8x4QFT2Bc9dN8d67F9RYqvyW2JlCt02zSxNGW7bTN2q2JDRX0W6Z6yq13L4hDBW37v15G2z03v=
+DN8R0SfRQFR-qW4Mp9fw6QtBFkW8dYHn349kJcBW4pfZcl1Q68w6W1MMh8v3gvwcfW3jdhZG7cg=
+Y9gW7HT6Jg9cHNDqW2nRylc5qPpppW1wn_5P44vsgmW2_37698y2yC7W4FzqB13fkSSwW3Kh6f4=
+4Px9HJV5XV3B9cW0zy102" style=3D"color:#0081cb; text-decoration:underline" d=
+ata-hs-link-id=3D"0">Often, you=E2=80=99ll hear my critics say that I have =
+no =E2=80=9Cpolitical=E2=80=9D experience, but I don=E2=80=99t believe Amer=
+ica needs more politics.</a></p>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>We need to heal, we need to be inspired, and we need to revive that except=
+ional spirit that built America.</p>
+<p style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>If you believe we need change, there are a few things you can do to help:<=
+/p>
+<ul>
+<li style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px=
+">Share your thoughts with your friends and family =E2=80=93 let them know =
+you are ready for change by <a href=3D"http://www.bencarson.com/e1t/c/*W4QC=
+VGc4MslvDW49k4TK3MWsg00/*W61XRYC8gs2J1W2q1XNP93-FfG0/5/f18dQhb0S5fs8YHtdnW8=
+Tnwn54mQf6dW2zGMJW7d-mZMN3hHh8ZVMsQMVnQ9Qq8--HBkW8_1hFG32WXVJW6B40j34dQ1q2V=
+Knt_C8WBzlBW548YcY7LnS_DW3ZHs8p2KBRYBW567bYV5lKvt_W541WWZ2NSVKQW2Mn9WV70-Jw=
+3W1x4lQB6Hq46JW5CktyL8mQMYTW7NM5zG1jKsqwW62lRh08QKpwvVKkNjW13bD4hW6dkdDn4f-=
+pQyW1gFTBc4BKlb7W58HpKv55VxHfV6rFT98TvyTxW8WxRh91jryytW9gJ9vw6XVbMdW1hp1_32=
+LcJPvW4M-MWZ2tGHzkW7HLJFw1jrzx5W3n5WCx5p0pkZW7sCpVp9fRJfDV41VcL1RV4cdW8nDzX=
+76mXCWhW6BXj_P8Ph58-W59BvGW6HvDVbV5wpX223MYzFN3rw02K10N9FW5xftxl7B3SLqW6PM5=
+4k1L_DHwW78n4wy20vPNtW1skgVG3WKpWNM9XfyR3_BVxf2ZShbJ11" style=3D"color:#008=
+1cb; text-decoration:underline" data-hs-link-id=3D"0">liking my Facebook pa=
+ge</a>.</li>
+<li style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px=
+"><a href=3D"http://www.bencarson.com/e1t/c/*W4QCVGc4MslvDW49k4TK3MWsg00/*W=
+1qN_sL8CCpzfW5kPY9711LDLn0/5/f18dQhb0SmhZ8XJbXvW8Tnwn54mQf6dW2zGMJW7d-mZMN3=
+hHhbhVMsQMVnQ9Qq8--HBkW8-xMXy5lcWNxW8Xlj7s8Wm1tDW8Xl1985nDY5BW2MznrN567bYVW=
+5lKvt_541WWZW2NSVKQ2Mn9WVW7MPvMk69NG1wW6Pr5qt51vDDKV34NWC6V4mbcW7SDTy73MhHl=
+fVYSMLX3_8mplW9fgwMT4gD-3GW2bK_Jj1hGtN0VwxwYF7wT8pzW7tRpt37qF2bsW74VJwg3qBK=
+ZvW14dnYh1hq999W850mjW1VB_rqN1GQ8_dsFJg5W8VY3K31TW3k1W6Xq-sm8SVSqyW56QKj22L=
+zMXLW1jb21g1ByQlbV4slhZ3LgLY6W1J7q3F3Cdk0dW3wv7Sm6x_0qvW6CsBXj7pK6LKW60Cv6y=
+9470HCW4QDcJ_1vsXRGW32M58p88-v35W5-5SSt7J15n2W9f7V9f6vGJJ0N7qyR5hcYWZCMcSz_=
+JFnMj1102" style=3D"color:#0081cb; text-decoration:underline" data-hs-link-=
+id=3D"0">Give me your feedback</a>. Let me know what you believe our countr=
+y needs most and how we can do it together.</li>
+<li style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px=
+">When you are ready, <a href=3D"http://www.bencarson.com/e1t/c/*W4QCVGc4Ms=
+lvDW49k4TK3MWsg00/*VzPvCH63C93FN1KCtWMswv5k0/5/f18dQhb0Smj18XJbp2W8Tnwn54mQ=
+f6dW2zGMJW7d-mZMN3hHhdGVMsQMVnQ9Qq8--HBkW8-xMXy5lcWNxW8Xlj7s8Wm1vGW8Tnb_y2K=
+FJwpW8Zg3Ym4bH_qwW2N33B53_t0gLVK3KRP4c2TwMN8XlfjdHZ5KNW5D8zFF6bVy-5W25PYN47=
+nwz0SN4r1QwqXzHTNVtkz_J53hmlPMQC5z2PC2cVN3k08xzfg5mXVX6d1p3c4C4kW5FQp8g3brS=
+92W1qgqgz5F1Qs7N5_VJ4FYDrgRVd6H4R5CY8l8VRSTj44V4w2zN5CxNFng0mYDW28BSX85vfmC=
+_W5C47s84qXwxwW368Q2d8qBLNWW5v000q4Rj6NhW6BzNGr5KyXZ2W72zrXT712jq9W1mSl775j=
+7l7JW7msyHc25BVM5W11fL6124RqJ8W1H11TR4pGLSQW97_RGL6ZXSQ1W6ZL8Nr6pWdNcW9bW1D=
+Q3hGm6lVrKGtg4F-4bjf1-yXGF04" style=3D"color:#0081cb; text-decoration:under=
+line" data-hs-link-id=3D"0">become a volunteer in your community</a>. We ca=
+n use your help and you will be the first to know when things are happening=
+ where you live.</li>
+</ul>
+<p id=3D"docs-internal-guid-579f2120-c427-a632-f377-287535e812ea" dir=3D"lt=
+r" style=3D"margin:0; font-size:16px; line-height:26px; margin-bottom:10px"=
+>I'm thrilled that you've taken the time to sign up. Over time, I hope to e=
+arn your steadfast support, and your vote.<br><br>Sincerely,</p>
+<p dir=3D"ltr" style=3D"margin:0; font-size:16px; line-height:26px; margin-=
+bottom:10px">Ben Carson</p>
+									</td>
+								</tr>
+=09=09=09=09=09=09=09=09
+							</tbody></table>
+						</td>
+					</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=09=09=09=09=09
+                    <tr>
+						<td style=3D"padding:0">
+							<table class=3D"footer-donate-social" bgcolor=3D"#0174c7" style=3D"b=
+order-spacing:0; font-family:sans-serif; color:#333333; width:100%" width=
+=3D"100%">
+								<tbody><tr>
+									<td class=3D"footer-donate-social__inner" style=3D"padding:1em; wi=
+dth:50%" width=3D"50%">
+										<table class=3D"donatenow" style=3D"border-spacing:0; font-family=
+:sans-serif; color:#333333; width:100%" width=3D"100%">
+											<tbody><tr>
+												<td bgcolor=3D"#ED283B" width=3D"100%" style=3D"padding:1em 1em=
+ 0.75em 1em; text-align:center" align=3D"center"><a href=3D"http://www.benc=
+arson.com/e1t/c/*W4QCVGc4MslvDW49k4TK3MWsg00/*W8VXft44sM9fQW73scdk1lpYS_0/5=
+/f18dQhb0S5fm8YHsrKW8Tnwn54mQf6dW2zGMJW7d-mZMN3hHhb7XL0jYVnQ9Qq8--HBkW8-xMX=
+y5lcWNxW8Xlj7s8Wm1tDW8Xl1cn1SPDt1W30Xpwx8xPLm8W61SSZm7dDxTNW7mWsnX7dz8FNW1n=
+Y85c1nbj7VW3VpsGl7NrMZsW3pcMZ27bj20MTz8jv3sxGBwVFjWsr30b7rhW94pXZF2yysBnW5c=
+8d-S3785gSW96CzjK5vt6xXW5PSyp-738FZ-N9jwBG0N-VhQW1n6Dmj2j92psVcVSv63sg8PPW8=
+d-XBc5wyYt0VPBSnS2pKXC2W5tsGt762SsBRW3sDWf37mNLWfW61Jh4b5P5LhQW1dyGjf7fXhQQ=
+W2VJFLk49kJcBW4pfZcl1Q68w6W1MMh8v3gvw9DW59Mh745xKcssW4QHRK-4rScmfW5qdN3F7hQ=
+vB9W4F3n-V4DzYYVW2m0Rw03bp8KCW97YTFf6N004GM4hRQxw9wJHTdfJN38fn1F103" style=
+=3D"color:white; display:block; font-weight:bold; text-align:center; text-d=
+ecoration:none; text-transform:uppercase" align=3D"center" data-hs-link-id=
+=3D"1">Donate Now</a></td>
+											</tr>
+										</tbody></table>
+									</td>
+									<td class=3D"footer-donate-social__inner" style=3D"padding:1em; wi=
+dth:50%" width=3D"50%">
+										<table style=3D"border-spacing:0; font-family:sans-serif; color:#=
+333333; width:100%" width=3D"100%">
+											<tbody><tr>
+												<td width=3D"100%" class=3D"footer-social__wrapper" align=3D"ri=
+ght" style=3D"padding:0; text-align:right">
+													<a href=3D"http://www.bencarson.com/e1t/c/*W4QCVGc4MslvDW49k4T=
+K3MWsg00/*W5Gj12H57yYd7W8cmgWl6wD_7q0/5/f18dQhb0Smh_8XJ9l8W8Tnwn54mQf6dW2zG=
+MJW7d-mZMN3hHh8mVMsQMVnQ9Qq8--HBkW8_1hFG32WXVJW6B40j34dQ1q2VKnt_C8WBzlBW548=
+YcY2MznrNW567bYV5lKvt_W541WWZ2NSVKQW2Mn9WV7MPvMkW69NG1w6Pr5qtW51vDDW56Y1GmW=
+96dt4S4r1QwqN3fSG4Dtkz_JN53hs-8QC5z2VPC2cV3j_XrJW3jMCm54sNzjKW4ZG4Qd4nZnmQW=
+65l5c_97skS7W6PcmNB3cqLlTW6PhXnn4rHtVrW1qXlq_4tmMRHW5z5K_624FQMTW1n1TYM4Sdb=
+x6W38ltCY8lVyBzW9bgs6F1m0HH_W34vFWw5D3wyRW6wydXJ7ShY2yMgdPpWfTlLHV1KsXp1JwD=
+RLW52D-r22J3NfCN7kLHkkn5zc7W480YZF95Np0cW5JNy2h91LP28W1YXtDG3KPDQtW4g_FL16q=
+JrqsW30y57v1tGQJTW3bFFFS28qG9z0" style=3D"color:#0081cb; text-decoration:un=
+derline" data-hs-link-id=3D"0"><img src=3D"http://cdn2.hubspot.net/hub/5273=
+15/hubfs/email/facebook-white.png?t=3D1451515085385&amp;width=3D16&amp;heig=
+ht=3D31" class=3D"social-button social-button--fb" width=3D"16" height=3D"3=
+1" alt=3D"Facebook" style=3D"border:0; width:16px"></a>&nbsp;
+													<a href=3D"http://www.bencarson.com/e1t/c/*W4QCVGc4MslvDW49k4T=
+K3MWsg00/*V7CtjZ4m_pzQW6K1_9d7kySHH0/5/f18dQhb0SmhQ8XJbXvW8Tnwn54mQf6dW2zGM=
+JW7d-mZMN3hHhctXL0jYVnQ9Qq8Z_pJ9W2MyX6Q8YztwfW8-tSw_4d1LttW5lcWNx8XlhqcW2MT=
+PSp8W2c9WW32CQ2l8j22WZW8Tn65J1TxSXbW2lqN3m1x4lQBW6Hq46J5CktyLW8mQMYT7NM5zGN=
+1hl0J6yN5x2W3X0g0y2mx_3JW56sy_82NhXH1W6zMNQd4ydT95W4zLLbS1VMWZbW82Grhp53j9q=
+5W7Kljb17wz4yVN1jNvYj7n7t0W9dhwL-1V0MmsW53j78W8V2TmWW5Kng1-5Kk9p8W1BzqhQ5-R=
+2f7W4hbZY59fNGp0Vw1bmC1fzjHcW1Ww2vp4lBZ6FW4PsdCM1bFTSwW4M11334H_8kRW2NGcNs1=
+f9cVrW5mQFYF49fKTBW24t_Ld49FShzW3l1Gg18ShCFrW8-TMl64zLRKGW4Ck03X3vGzDRW90JF=
+ZN6BjKdHVVrjYx7x7s6wf26s5Hn04" style=3D"color:#0081cb; text-decoration:unde=
+rline" data-hs-link-id=3D"0"><img src=3D"http://cdn2.hubspot.net/hub/527315=
+/hubfs/email/twitter-white.png?t=3D1451515085385&amp;width=3D37&amp;height=
+=3D30" class=3D"social-button social-button--tt" width=3D"37" height=3D"30"=
+ alt=3D"Twitter" style=3D"border:0; width:37px"></a>&nbsp;
+													<a href=3D"http://www.bencarson.com/e1t/c/*W4QCVGc4MslvDW49k4T=
+K3MWsg00/*W6k7jFh2dlcZ2W8k7v1L32KbTD0/5/f18dQhb0S5fq8XJ9TCW8Tnwn54mQf6dW2zG=
+MJW7d-mZMN3hHh9yVMsQMVnQ9Qq8--HBkW8ZLLFc2Mz0QWW8-y10r8Z_j95N567L0TKnt_CW8WB=
+zlB548YcYW2MznrN567bYVW5lKvt_541WWZW2NSVKQ2Mn9WVW7MPvMk69NG1wW6Pr5qt51vDG6W=
+4MW8X34r1Pm7W1nqcMf17M3LqW7R0x144M3dV-VVQf4X5vDhXCVZMRpd5_NhHvW5t7bQ82y9r02=
+N4wTY-wYN1rzW34Ypqx34H0ltN4S5sMgNcRQzW6SfD6_6Mt-L2W4rYmYD1qftfcW8sLwFJ98jCN=
+hN2CfX9nfgQtLW5wMcrC3KJQnsW5w6MTG232qnpVhlWgV8GclM4W1-kc-y3zXm3vW8csLSq1036=
+y7N3ZWSmQb17c3W45y9bk5kZTn-V215-p1Jp44yW5S0Ptv4dnLSCW3s0JYz4XH9bTW3_0DFV2TG=
+BPwN7QqQWgmRw0WV9ZLgT274Nkl111" style=3D"color:#0081cb; text-decoration:und=
+erline" data-hs-link-id=3D"0"><img src=3D"http://cdn2.hubspot.net/hub/52731=
+5/hubfs/email/white-youtube.png?t=3D1451515085385&amp;width=3D26&amp;height=
+=3D31" class=3D"social-button social-button--yt" width=3D"26" height=3D"31"=
+ alt=3D"YouTube" style=3D"border:0; width:26px"></a>&nbsp;
+													<a href=3D"http://www.bencarson.com/e1t/c/*W4QCVGc4MslvDW49k4T=
+K3MWsg00/*VDr_S04m0xFjW5XttWY3ZtMtX0/5/f18dQhb0Smj18XJbp2W8Tnwn54mQf6dW2zGM=
+JW7d-mZMN3hHhdGVMsQMVnQ9Qq8ZQtY2N2M6QV5Hq5bYW8Wm1tt2_YWs2W31H9rJ55kNW7W8Zg3=
+Ym4bH_qwW2N33B53_t0gLVK3KRP4c2TwMN8XlfjdHZ5KNW5D8zFF6bVy-5W25PYN47nwG0kW6bn=
+MRg5J_J7-W7vBlHv1VJwB8W7WmcjJ97rB1bW8xqQ934ZQyrDN61D2PtgmnFrV-fjqc2vcpxqN1l=
+tJHrTQf17W4TL6gm36MBsgV8ylC76M4K2qW8n-VmK7bW--gW1nY6pX97Q1yPW2xRJM-8tz4tWW3=
+3WNKk4tH6hGW34xykk5xcW7ZN7hbnVz8WHw8W7wV0mM4CBvyBW53NYtc4PLwTVW7pMBrY7JCcCh=
+W1tyQtL5gdJ8BW7kDQ2d30Hpx6W11ZgMV978K-zN9c7qhl4X7w5W3vqhhv8CqbfgN8hR7zfr4ZL=
+FN1WPqsC1GtSzd6lZ9z03" style=3D"color:#0081cb; text-decoration:underline" d=
+ata-hs-link-id=3D"0"><img src=3D"http://cdn2.hubspot.net/hub/527315/hubfs/e=
+mail/white-instagram.png?t=3D1451515085385&amp;width=3D32&amp;height=3D32" =
+class=3D"social-button social-button--ig" width=3D"32" height=3D"32" alt=3D=
+"Instagram" style=3D"border:0; width:32px"></a>
+												</td>
+											</tr>
+										</tbody></table>=09=09
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+					<tr>
+						<td class=3D"one-column footer" colspan=3D"2" style=3D"padding:0">
+							<table class=3D"contents copyright-optout" style=3D"border-spacing:0=
+; font-family:sans-serif; color:#333333; max-width:560px; width:100%; text-=
+align:left" width=3D"100%" align=3D"left">
+								<tbody><tr>
+									<td style=3D"padding:0">&nbsp;</td>
+								</tr>
+								<tr>
+									<td class=3D"inner contents" style=3D"padding:0; max-width:560px; =
+width:100%; text-align:left" width=3D"100%" align=3D"left">
+=09=09=09=09=09=09=09=09=09=09
+										<p style=3D"margin:0; line-height:26px; color:#666666; font-size:=
+11px; margin-bottom:0">
+											Carson America, Inc.&nbsp;
+											P.O. Box 26261&nbsp;
+											&nbsp;
+											Alexandria&nbsp;
+											VA&nbsp;
+											22313&nbsp;
+											&nbsp;
+										</p>
+										<p style=3D"margin:0; line-height:26px; color:#666666; font-size:=
+11px; margin-bottom:0">
+											You received this email because you are subscribed to Ben Carson=
+ Updates from Carson America, Inc..
+										</p>
+										<p style=3D"margin:0; line-height:26px; color:#666666; font-size:=
+11px; margin-bottom:0">
+											Update your <a class=3D"hubspot-mergetag" data-unsubscribe=3D"tr=
+ue" href=3D"http://www.bencarson.com/e1t/c/*W8xX7RV4YW0_6W2yrdDW29b16V0/*W4=
+5w53q7NwgWZW1rbdZ78JBYl80/5/f18dQhb0S2C97rD5KWVM_mK-3yB0FKN1f9FW-hZC5TW5FpZ=
+YB5jtynJW7WCPhr8H1t5FW77fwgw6Hzr25W21kYyJ7m67VkV7jkB76LcnFMW6QTDtp8bB92SW4v=
+RlH82qYzW1W6TSJGf88rD6rW3nSXXS8qhNVqW44-GF63NZ0rsW6VDDgp53n342W7pNq-L66cNhf=
+W4ql39F1SGN7SW3lKmY38WRf8NN3CYySLB47rzVXmv131fS5-YW37J66d4v_q6kW3kzY3m1WSd4=
+_W7Z1GK88k9WMtW8g_MXS79bdWcN3M4Dnp9-ZPGW3hc4kz35YdXTW1XDWDp21GV1CN5fcxBKWVh=
+Z1W5MZxLC3KRngWW34jDB_57_1jFW7L0LJz2_sdWJW2SJKfR702D8QW3dD7dT1hhf8KW4KY_kD7=
+_nmQQW68qWPC8ZxZQLW2T6fGh4lm5Y-W84TSmH53xlF6W1YG7_m5pG5YbVqgn4s3BWbhDMdTHTJ=
+y-sR9W4RLLfQ4-qFKpW43ZcWz2qwRz2W6_YWzM3yNRYVW1hDpyq33XyPpW7QGVND3L3-8mW7Nbq=
+BX1R_RMcW27vWyP8Y16BJW2SqkyH8G-LwwW4wfksW1rZ5fMW5XhKxT62WGjyW2v_XM47DkS3gW8=
+D30lj8p59P6Vs67Rq6cz97BW7S5RPr2sNhDjW3H_dyh4k_RZRW7r0b3d89KZkVW67P7-Y8vKysF=
+W7p_zdS5cFrwfW8kH8tJ5R4FsLN9l4wcL76lZ-W8Gdzc58NxK29W6RXGSW8W_1VxW5Q9FWP8F7w=
+34f1CL2Wl02" style=3D"color:#0081cb; text-decoration:underline" data-hs-lin=
+k-id=3D"1">email preferences</a> to choose the types of emails you receive.
+										</p>
+										<p style=3D"margin:0; line-height:26px; color:#666666; font-size:=
+11px; margin-bottom:0">
+											<a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D"=
+http://www.bencarson.com/e1t/c/*W8xX7RV4YW0_6W2yrdDW29b16V0/*W7T08_l71nFfbW=
+2_xc0m2DRwTw0/5/f18dQhb0S2C97wzbLgVM_2Wn1PNP3ZMDBRrWmWJ5YW5G6z_C13hKNWW6D-n=
+rt658MhhVKwz4R44b-D1W3t573B3TyWdrW76bN0X6LcBTfW5Hx1wB4FK8xHW6Q9rkM1KgXXgW6M=
+vCKQ2gg9GsW4rKM3X1RGhd9W8Lb0d34ncb81W5R4B428Ccdf2W4nkgK02jDjTqW24c42x1RzPSz=
+W7kSqch5ldMJFW2VPg689fbvjwW1b8Xt22xqX8MW7CvQW76wGvYGW5x47Zv2HWTl1W3NMgLY12G=
+tbZW4DmMDF65_z4bW7fYQF359wZmFW5LwnVl1VswyvW14vQ3j33SP74N67CN4mGgNddN7d4cWTZ=
+GxYDW7jpyz43qvH3MW8QR_6T3SFX5VW2wwP4d6bdmxsW7V2GXX21DLDTW76N-Q25G1b2LW4LL8R=
+M3RN9PzW8lKcP52rHT31W8p6T507l3Ns4V_HJJ32qMMHxW8YJ2DT5ldFpBW4_hd8h6GGpDDVstD=
+kY1n30sGVPkf0k7KBVCgW1xZ58z5H_1k5W64bLMF2s4PxNW1DDFDj7VCGK-W5cP3Pw8ZWV4NN2G=
+p6BwFqNKYW89nZYW2YvQhJW2-LhrW5pQcBpW5whlrG97ZfskW48cByd6VqBYcW4LjXqP4lztgGW=
+6XkBdR5nWhkKW6Fj1vd7BQMdsW5wlkVC3nnbr5W7sNxXG98YmK7W80xXZV5t6Hc8W14QGWV3gl8=
+mbW6m21h96KPPXTW97dXC354Dz2qW95tMhf4FyvXGW8tDXJ320JVDpW6XgPWb91ysRLVB1BPy39=
+LJKW103" style=3D"color:#0081cb; text-decoration:underline" data-hs-link-id=
+=3D"0">Unsubscribe from all future emails</a>
+										</p>
+									</td>
+								</tr>
+								<tr>
+									<td style=3D"padding:0">=20
+										<br>
+										<table class=3D"contents" align=3D"left" style=3D"border-spacing:=
+0; font-family:sans-serif; color:#333333; max-width:560px; width:100%; text=
+-align:left" width=3D"100%">
+											<tbody><tr>
+												<td align=3D"center" style=3D"padding:0">
+													<table class=3D"disclaimer" align=3D"center" style=3D"border-s=
+pacing:0; font-family:sans-serif; color:#333333">
+														<tbody><tr>
+															<td style=3D"border:1px solid #666666; color:#666666; font-s=
+ize:14px; padding:1em; text-align:center; width:50%" align=3D"center" width=
+=3D"50%">
+																<span>Paid for by Carson America, Inc.</span>
+															</td>
+														</tr>
+													</tbody></table>=09=09
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+=09=09=09=09=09=09=09=09
+							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+        	</div>
+    	</center>
+    <!--[if mso]>
+ 		</td></tr></table>
+ 		</center>
+	<![endif]-->=20=09
+=09
+<!-- end coded_template: id:3560505005 path:custom/email/web_page_basic/Bas=
+ic_Email_Template_Responsive.html -->
+<img src=3D"http://www.bencarson.com/e1t/o/*W5fKjSD2q8rqkW5KDbp54QJddP0/*W3=
+9gV9Q3ByWjyW4K806W5n-0yK0/5/f18dQhb0KdhDBWRlfW6R02zB2nxYxmN1hZ56mKnmMkVSn87=
+f2jz_TZVcWjvG7dHy9TW3XtNf155kGGdW83Glpz4-fH8dW7sLqGF9cYcbqW1wlbN35bxzTwW9d7=
+Q-Z9h6rjbW4L_NYS6qMTSFW8-MRh848WyNxDbzc6dl_g5f6bbK6n03" alt=3D"" width=3D"1=
+" height=3D"1" border=3D"0" style=3D"display:none!important;min-height:1px!=
+important;width:1px!important;border-width:0!important;margin-top:0!importa=
+nt;margin-bottom:0!important;margin-right:0!important;margin-left:0!importa=
+nt;padding-top:0!important;padding-bottom:0!important;padding-right:0!impor=
+tant;padding-left:0!important"><style>@media print{#_hs { background-image:=
+ url('http://www.bencarson.com/e1t/o/*W5fKjSD2q8rqkW5KDbp54QJddP0/*W5jLM064=
+0G83jW1pSZVK8w1KnM0/5/f18dQhb0J6x1dBVNW8b5nYG19kTpGW1f7_kj20WxrPW20ZSrh2YtZ=
+D-F346K26vFvnTDk7H28vr7mW23qKvB3_VrY8W2m40Kf3T0pbmW43T0K_4RF_rdVNw5fN5rYt0w=
+N4-1yCpCH2MfW8BBJ7-9j7fS9W4-0DJT1y6gpmf7sMPmq01');}} div.OutlookMessageHead=
+er {background-image:url('http://www.bencarson.com/e1t/o/*W5fKjSD2q8rqkW5KD=
+bp54QJddP0/*W5wX5cT7sz3D1W6_Z0Hm8ql9pV0/5/f18dQhb0J6z1cMYyW8tVM-719kTpGW1f7=
+_kj20WxrPW20ZSrk2zLf-3F2nVMD-s7yKM2xwK0vlGr-VJYbB63W1ZyLW4fHNqh3_R592N1JxwY=
+52rk5CW15gBJz6D1L1zW8Gm-B56WXK46W4JR_ns6tbDCvVWD9n14SHP4WV1drTw2m1MLz103')}=
+ table.moz-email-headers-table {background-image:url('http://www.bencarson.=
+com/e1t/o/*W5fKjSD2q8rqkW5KDbp54QJddP0/*W5wX5cT7sz3D1W6_Z0Hm8ql9pV0/5/f18dQ=
+hb0J6z1cMYyW8tVM-719kTpGW1f7_kj20WxrPW20ZSrk2zLf-3F2nVMD-s7yKM2xwK0vlGr-VJY=
+bB63W1ZyLW4fHNqh3_R592N1JxwY52rk5CW15gBJz6D1L1zW8Gm-B56WXK46W4JR_ns6tbDCvVW=
+D9n14SHP4WV1drTw2m1MLz103')} blockquote #_hs {background-image:url('http://=
+www.bencarson.com/e1t/o/*W5fKjSD2q8rqkW5KDbp54QJddP0/*W5wX5cT7sz3D1W6_Z0Hm8=
+ql9pV0/5/f18dQhb0J6z1cMYyW8tVM-719kTpGW1f7_kj20WxrPW20ZSrk2zLf-3F2nVMD-s7yK=
+M2xwK0vlGr-VJYbB63W1ZyLW4fHNqh3_R592N1JxwY52rk5CW15gBJz6D1L1zW8Gm-B56WXK46W=
+4JR_ns6tbDCvVWD9n14SHP4WV1drTw2m1MLz103')} #MailContainerBody #_hs {backgro=
+und-image:url('http://www.bencarson.com/e1t/o/*W5fKjSD2q8rqkW5KDbp54QJddP0/=
+*W5wX5cT7sz3D1W6_Z0Hm8ql9pV0/5/f18dQhb0J6z1cMYyW8tVM-719kTpGW1f7_kj20WxrPW2=
+0ZSrk2zLf-3F2nVMD-s7yKM2xwK0vlGr-VJYbB63W1ZyLW4fHNqh3_R592N1JxwY52rk5CW15gB=
+Jz6D1L1zW8Gm-B56WXK46W4JR_ns6tbDCvVWD9n14SHP4WV1drTw2m1MLz103')}</style><di=
+v id=3D"_hs"></div></body></html>=
+
+------=_Part_8293264_1953894235.1451708728718--
+
+
